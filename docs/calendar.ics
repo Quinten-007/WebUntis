@@ -1442,7 +1442,7 @@ DTSTART;TZID=Europe/Brussels:20260527T140000
 DTEND;TZID=Europe/Brussels:20260527T160000
 UID:1385210-20260527-1400@webuntis-sync
 DESCRIPTION:Michiels\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:01.06.VIA (40) Projectlokaal
+LOCATION:01.06.VIA  (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
