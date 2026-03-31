@@ -9,7 +9,7 @@ DTSTART;TZID=Europe/Brussels:20260202T110000
 DTEND;TZID=Europe/Brussels:20260202T130000
 UID:511601-20260202-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (38) Theorielokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -90,7 +90,7 @@ DTSTART;TZID=Europe/Brussels:20260209T110000
 DTEND;TZID=Europe/Brussels:20260209T130000
 UID:511607-20260209-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (38) Theorielokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -204,7 +204,7 @@ DTSTART;TZID=Europe/Brussels:20260223T110000
 DTEND;TZID=Europe/Brussels:20260223T130000
 UID:511613-20260223-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (38) Theorielokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -329,7 +329,7 @@ DTSTART;TZID=Europe/Brussels:20260302T110000
 DTEND;TZID=Europe/Brussels:20260302T130000
 UID:511619-20260302-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (38) Theorielokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -435,7 +435,7 @@ DTSTART;TZID=Europe/Brussels:20260309T110000
 DTEND;TZID=Europe/Brussels:20260309T130000
 UID:511625-20260309-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (38) Theorielokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -552,7 +552,7 @@ DTSTART;TZID=Europe/Brussels:20260316T110000
 DTEND;TZID=Europe/Brussels:20260316T130000
 UID:511631-20260316-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (38) Theorielokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -624,7 +624,7 @@ UID:1120718-20260319-900@webuntis-sync
 DESCRIPTION:Verhulst\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 / 
  1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2 / 1IT_SOF3\n---------
  -----------\nℹ️ Theorie
-LOCATION:01.37.VIA (180) aula
+LOCATION:01.37.VIA (180) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
@@ -640,7 +640,7 @@ DTSTART;TZID=Europe/Brussels:20260319T140000
 DTEND;TZID=Europe/Brussels:20260319T160000
 UID:1425426-20260319-1400@webuntis-sync
 DESCRIPTION:Verhulst\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:02.07_A.VIA (40) Leslokaal
+LOCATION:02.07_A.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python OOP
@@ -666,7 +666,7 @@ DTSTART;TZID=Europe/Brussels:20260323T110000
 DTEND;TZID=Europe/Brussels:20260323T130000
 UID:511637-20260323-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (38) Theorielokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -772,7 +772,7 @@ DTSTART;TZID=Europe/Brussels:20260330T110000
 DTEND;TZID=Europe/Brussels:20260330T130000
 UID:511643-20260330-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (38) Theorielokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System administration
@@ -818,7 +818,7 @@ DTEND;TZID=Europe/Brussels:20260401T130000
 UID:1386912-20260401-1100@webuntis-sync
 DESCRIPTION:Verhulst\n1IT_BUS uitdovend / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 /
   1IT_SOF2\n--------------------\nℹ️ Labo
-LOCATION:03.06_A.VIA (40) Leslokaal\, 03.06_B.VIA (40) Leslokaal
+LOCATION:03.06_A.VIA (40) Projectlokaal\, 03.06_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analysis
@@ -837,7 +837,7 @@ UID:1386906-20260402-900@webuntis-sync
 DESCRIPTION:Verhulst\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 / 
  1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------
  \nℹ️ Theorie
-LOCATION:00.025.NOO (297)
+LOCATION:00.025.NOO (297) aula Andries Kinsbergen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System administration
@@ -872,7 +872,7 @@ DTSTART;TZID=Europe/Brussels:20260420T110000
 DTEND;TZID=Europe/Brussels:20260420T130000
 UID:511649-20260420-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (38) Theorielokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System administration
@@ -992,7 +992,7 @@ DTSTART;TZID=Europe/Brussels:20260427T110000
 DTEND;TZID=Europe/Brussels:20260427T130000
 UID:511655-20260427-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (38) Theorielokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -1083,7 +1083,7 @@ DTSTART;TZID=Europe/Brussels:20260504T110000
 DTEND;TZID=Europe/Brussels:20260504T130000
 UID:511661-20260504-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (38) Theorielokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -1221,7 +1221,7 @@ DTSTART;TZID=Europe/Brussels:20260511T110000
 DTEND;TZID=Europe/Brussels:20260511T130000
 UID:511667-20260511-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (38) Theorielokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -1304,7 +1304,7 @@ DTSTART;TZID=Europe/Brussels:20260518T110000
 DTEND;TZID=Europe/Brussels:20260518T130000
 UID:511673-20260518-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (38) Theorielokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -1456,7 +1456,7 @@ DTEND;TZID=Europe/Brussels:20260527T110000
 UID:1451162-20260527-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT_AI1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_IOT1\n----------
  ----------\nℹ️ Labo
-LOCATION:01.37.VIA (180) aula
+LOCATION:01.37.VIA (180) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
@@ -1554,7 +1554,7 @@ DTEND;TZID=Europe/Brussels:20260608T120000
 UID:1454970-20260608-900@webuntis-sync
 DESCRIPTION:Doggen / Michiels\n1IT_AI1 / 1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 
  1IT_IOT1\n--------------------\nℹ️ Digitaal vaardigheid
-LOCATION:01.30.VIA (180) Aula\, 01.37.VIA (180) aula
+LOCATION:01.30.VIA (180) Aula\, 01.37.VIA (180) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linux services
@@ -1564,7 +1564,7 @@ UID:1454913-20260610-900@webuntis-sync
 DESCRIPTION:Peetermans / Vander Vennet / Vanhulle\n1IT_CSC1 / 1IT_CSC2 / 1
  IT_CSC3 / 2IT_IOT1\n--------------------\nℹ️ Digitaal examen vaardighe
  id
-LOCATION:01.30.VIA (180) Aula\, 01.37.VIA (180) aula
+LOCATION:01.30.VIA (180) Aula\, 01.37.VIA (180) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -1573,7 +1573,7 @@ DTEND;TZID=Europe/Brussels:20260612T100000
 UID:1454742-20260612-900@webuntis-sync
 DESCRIPTION:Dams / De Magtige / Waeyaert\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 /
   1IT_SOF1 / 1IT_SOF2\n--------------------\nℹ️ Digitaal examen kennis
-LOCATION:01.27.VIA (265) Aula\, 02.05.VIA (100)
+LOCATION:01.27.VIA (265) Aula\, 02.05.VIA (100) projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Routing & switching
