@@ -4,24 +4,6 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:Python OOP
-DTSTART;TZID=Europe/Brussels:20260213T090000
-DTEND;TZID=Europe/Brussels:20260213T110000
-UID:517158-20260213-900@webuntis-sync
-DESCRIPTION:Michiels\n1IT_AI1 / 1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_IOT1\
- n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Routing & switching
-DTSTART;TZID=Europe/Brussels:20260213T110000
-DTEND;TZID=Europe/Brussels:20260213T130000
-UID:518070-20260213-1100@webuntis-sync
-DESCRIPTION:Horsmans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:01.03.ELL (30) Labo Netwerken
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Linux services
 DTSTART;TZID=Europe/Brussels:20260223T110000
 DTEND;TZID=Europe/Brussels:20260223T130000
