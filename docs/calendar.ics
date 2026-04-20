@@ -429,7 +429,7 @@ UID:1120718-20260319-900@webuntis-sync
 DESCRIPTION:Verhulst\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 / 
  1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2 / 1IT_SOF3\n---------
  -----------\nℹ️ Theorie
-LOCATION:01.37.VIA (180) Aula
+LOCATION:01.37.VIA (180) aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
@@ -445,7 +445,7 @@ DTSTART;TZID=Europe/Brussels:20260319T140000
 DTEND;TZID=Europe/Brussels:20260319T160000
 UID:1425426-20260319-1400@webuntis-sync
 DESCRIPTION:Verhulst\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:02.07_A.VIA (40) Projectlokaal
+LOCATION:02.07_A.VIA (40) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python OOP
@@ -623,7 +623,7 @@ DTEND;TZID=Europe/Brussels:20260401T130000
 UID:1386912-20260401-1100@webuntis-sync
 DESCRIPTION:Verhulst\n1IT_BUS uitdovend / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 /
   1IT_SOF2\n--------------------\nℹ️ Labo
-LOCATION:03.06_A.VIA (40) Projectlokaal\, 03.06_B.VIA (40) Projectlokaal
+LOCATION:03.06_A.VIA (40) Leslokaal\, 03.06_B.VIA (40) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analysis
@@ -642,7 +642,7 @@ UID:1386906-20260402-900@webuntis-sync
 DESCRIPTION:Verhulst\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 / 
  1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------
  \nℹ️ Theorie
-LOCATION:00.025.NOO (297) aula Andries Kinsbergen
+LOCATION:00.025.NOO (297)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System administration
@@ -1261,7 +1261,7 @@ DTEND;TZID=Europe/Brussels:20260527T110000
 UID:1451162-20260527-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT_AI1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_IOT1\n----------
  ----------\nℹ️ Labo
-LOCATION:01.37.VIA (180) Aula
+LOCATION:01.37.VIA (180) aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
