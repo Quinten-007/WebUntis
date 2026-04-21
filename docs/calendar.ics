@@ -1188,15 +1188,6 @@ DESCRIPTION:De Vries\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
 LOCATION:03.12.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cyber security
-DTSTART;TZID=Europe/Brussels:20260521T110000
-DTEND;TZID=Europe/Brussels:20260521T130000
-UID:1443838-20260521-1100@webuntis-sync
-DESCRIPTION:Waeyaert\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
- bo
-LOCATION:01.05.ELL (32) Cyber security
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Python OOP
 DTSTART;TZID=Europe/Brussels:20260522T090000
 DTEND;TZID=Europe/Brussels:20260522T110000
@@ -1205,6 +1196,15 @@ DESCRIPTION:Michiels\n1IT_AI1 / 1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_IOT1\
  n--------------------\nℹ️ Theorie
 LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
   01.08_3.ELL (144) Auditorium 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cyber security
+DTSTART;TZID=Europe/Brussels:20260522T110000
+DTEND;TZID=Europe/Brussels:20260522T130000
+UID:1482808-20260522-1100@webuntis-sync
+DESCRIPTION:Waeyaert\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
+ bo
+LOCATION:03.07.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System administration
@@ -1403,8 +1403,8 @@ SUMMARY:System administration
 DTSTART;TZID=Europe/Brussels:20260617T110000
 DTEND;TZID=Europe/Brussels:20260617T120000
 UID:1455117-20260617-1100@webuntis-sync
-DESCRIPTION:Horsmans / Van Eyken / Van Merode / Vanhulle\n1IT_CSC1 / 1IT_C
- SC2 / 1IT_CSC3\n--------------------\nℹ️ Digitaal examen kennis
+DESCRIPTION:Cop / Horsmans / Van Merode / Vanhulle\n1IT_CSC1 / 1IT_CSC2 / 
+ 1IT_CSC3\n--------------------\nℹ️ Digitaal examen kennis
 LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
   01.08_3.ELL (144) Auditorium 3
 END:VEVENT
@@ -1413,8 +1413,8 @@ SUMMARY:System administration
 DTSTART;TZID=Europe/Brussels:20260617T130000
 DTEND;TZID=Europe/Brussels:20260617T150000
 UID:1455120-20260617-1300@webuntis-sync
-DESCRIPTION:Horsmans / Van Eyken / Van Merode / Vanhulle\n1IT_CSC1 / 1IT_C
- SC2 / 1IT_CSC3\n--------------------\nℹ️ Digitaal examen vaardigheid
+DESCRIPTION:Cop / Horsmans / Van Merode / Vanhulle\n1IT_CSC1 / 1IT_CSC2 / 
+ 1IT_CSC3\n--------------------\nℹ️ Digitaal examen vaardigheid
 LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
   01.08_3.ELL (144) Auditorium 3
 END:VEVENT
