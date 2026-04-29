@@ -9,7 +9,7 @@ DTSTART;TZID=Europe/Brussels:20260302T110000
 DTEND;TZID=Europe/Brussels:20260302T130000
 UID:511619-20260302-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (40) Projectlokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal - heavy duty PC's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -115,7 +115,7 @@ DTSTART;TZID=Europe/Brussels:20260309T110000
 DTEND;TZID=Europe/Brussels:20260309T130000
 UID:511625-20260309-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (40) Projectlokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal - heavy duty PC's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -187,7 +187,7 @@ DTSTART;TZID=Europe/Brussels:20260311T140000
 DTEND;TZID=Europe/Brussels:20260311T160000
 UID:1385156-20260311-1400@webuntis-sync
 DESCRIPTION:Michiels\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.11.ELL (50) Leslokaal
+LOCATION:03.11.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
@@ -206,7 +206,7 @@ DTSTART;TZID=Europe/Brussels:20260312T140000
 DTEND;TZID=Europe/Brussels:20260312T160000
 UID:502739-20260312-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07.ELL (49) Leslokaal
+LOCATION:03.07.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python OOP
@@ -232,7 +232,7 @@ DTSTART;TZID=Europe/Brussels:20260316T110000
 DTEND;TZID=Europe/Brussels:20260316T130000
 UID:511631-20260316-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (40) Projectlokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal - heavy duty PC's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -346,7 +346,7 @@ DTSTART;TZID=Europe/Brussels:20260323T110000
 DTEND;TZID=Europe/Brussels:20260323T130000
 UID:511637-20260323-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (40) Projectlokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal - heavy duty PC's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -390,7 +390,7 @@ DTSTART;TZID=Europe/Brussels:20260325T140000
 DTEND;TZID=Europe/Brussels:20260325T160000
 UID:1385168-20260325-1400@webuntis-sync
 DESCRIPTION:Michiels\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07.ELL (49) Leslokaal
+LOCATION:03.07.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
@@ -410,7 +410,7 @@ DTEND;TZID=Europe/Brussels:20260326T130000
 UID:1425432-20260326-1100@webuntis-sync
 DESCRIPTION:Van Battel\n1IT_AI1 / 1IT_CSC2\n--------------------\nℹ️ L
  abo
-LOCATION:03.06.ELL (60) Leslokaal
+LOCATION:03.06.ELL (59) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -418,7 +418,7 @@ DTSTART;TZID=Europe/Brussels:20260326T140000
 DTEND;TZID=Europe/Brussels:20260326T160000
 UID:502745-20260326-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07.ELL (49) Leslokaal
+LOCATION:03.07.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python OOP
@@ -452,7 +452,7 @@ DTSTART;TZID=Europe/Brussels:20260330T110000
 DTEND;TZID=Europe/Brussels:20260330T130000
 UID:511643-20260330-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (40) Projectlokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal - heavy duty PC's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System administration
@@ -489,7 +489,7 @@ DTEND;TZID=Europe/Brussels:20260401T110000
 UID:1443844-20260401-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.06.ELL (60) Leslokaal
+LOCATION:03.06.ELL (59) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
@@ -526,7 +526,7 @@ DTEND;TZID=Europe/Brussels:20260402T130000
 UID:1449401-20260402-1100@webuntis-sync
 DESCRIPTION:Horsmans\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.11.ELL (50) Leslokaal
+LOCATION:03.11.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python OOP
@@ -552,7 +552,7 @@ DTSTART;TZID=Europe/Brussels:20260420T110000
 DTEND;TZID=Europe/Brussels:20260420T130000
 UID:511649-20260420-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (40) Projectlokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal - heavy duty PC's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System administration
@@ -580,7 +580,7 @@ DTEND;TZID=Europe/Brussels:20260421T160000
 UID:1443892-20260421-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.11.ELL (50) Leslokaal
+LOCATION:03.11.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analysis
@@ -600,7 +600,7 @@ DTEND;TZID=Europe/Brussels:20260422T110000
 UID:1443850-20260422-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.06.ELL (60) Leslokaal
+LOCATION:03.06.ELL (59) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
@@ -672,7 +672,7 @@ DTSTART;TZID=Europe/Brussels:20260427T110000
 DTEND;TZID=Europe/Brussels:20260427T130000
 UID:511655-20260427-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (40) Projectlokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal - heavy duty PC's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -710,7 +710,7 @@ DTEND;TZID=Europe/Brussels:20260428T160000
 UID:1443898-20260428-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.07.ELL (49) Leslokaal
+LOCATION:03.07.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python OOP
@@ -719,7 +719,7 @@ DTEND;TZID=Europe/Brussels:20260429T110000
 UID:1443856-20260429-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.06.ELL (60) Leslokaal
+LOCATION:03.06.ELL (59) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
@@ -755,7 +755,7 @@ DTSTART;TZID=Europe/Brussels:20260430T110000
 DTEND;TZID=Europe/Brussels:20260430T130000
 UID:1443802-20260430-1100@webuntis-sync
 DESCRIPTION:Binnemans\n1IT_CSC2 / 1IT_CSC3
-LOCATION:03.11.ELL (50) Leslokaal
+LOCATION:03.11.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linux services
@@ -763,7 +763,7 @@ DTSTART;TZID=Europe/Brussels:20260504T110000
 DTEND;TZID=Europe/Brussels:20260504T130000
 UID:511661-20260504-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (40) Projectlokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal - heavy duty PC's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -801,7 +801,7 @@ DTEND;TZID=Europe/Brussels:20260505T160000
 UID:1443904-20260505-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.11.ELL (50) Leslokaal
+LOCATION:03.11.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analysis
@@ -821,7 +821,7 @@ DTEND;TZID=Europe/Brussels:20260506T110000
 UID:1443862-20260506-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.06.ELL (60) Leslokaal
+LOCATION:03.06.ELL (59) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
@@ -901,7 +901,7 @@ DTSTART;TZID=Europe/Brussels:20260511T110000
 DTEND;TZID=Europe/Brussels:20260511T130000
 UID:511667-20260511-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (40) Projectlokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal - heavy duty PC's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -950,7 +950,7 @@ DTEND;TZID=Europe/Brussels:20260512T160000
 UID:1443910-20260512-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.07.ELL (49) Leslokaal
+LOCATION:03.07.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python OOP
@@ -959,7 +959,7 @@ DTEND;TZID=Europe/Brussels:20260513T110000
 UID:1443868-20260513-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.06.ELL (60) Leslokaal
+LOCATION:03.06.ELL (59) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
@@ -984,7 +984,7 @@ DTSTART;TZID=Europe/Brussels:20260518T110000
 DTEND;TZID=Europe/Brussels:20260518T130000
 UID:511673-20260518-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (40) Projectlokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal - heavy duty PC's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -1042,7 +1042,7 @@ DTEND;TZID=Europe/Brussels:20260520T110000
 UID:1443874-20260520-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.06.ELL (60) Leslokaal
+LOCATION:03.06.ELL (59) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System administration
@@ -1079,7 +1079,7 @@ DTEND;TZID=Europe/Brussels:20260522T130000
 UID:1482808-20260522-1100@webuntis-sync
 DESCRIPTION:Waeyaert\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.07.ELL (49) Leslokaal
+LOCATION:03.07.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System administration
@@ -1170,7 +1170,7 @@ DTSTART;TZID=Europe/Brussels:20260528T110000
 DTEND;TZID=Europe/Brussels:20260528T130000
 UID:1449371-20260528-1100@webuntis-sync
 DESCRIPTION:Binnemans\n1IT_CSC2
-LOCATION:03.02.ELL (52) Leslokaal
+LOCATION:03.02.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python OOP
