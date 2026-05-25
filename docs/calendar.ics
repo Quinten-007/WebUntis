@@ -4,22 +4,6 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:System administration
-DTSTART;TZID=Europe/Brussels:20260325T110000
-DTEND;TZID=Europe/Brussels:20260325T130000
-UID:1387246-20260325-1100@webuntis-sync
-DESCRIPTION:Horsmans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.03.ELL (49) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Python OOP
-DTSTART;TZID=Europe/Brussels:20260325T140000
-DTEND;TZID=Europe/Brussels:20260325T160000
-UID:1385168-20260325-1400@webuntis-sync
-DESCRIPTION:Michiels\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Web programming
 DTSTART;TZID=Europe/Brussels:20260326T090000
 DTEND;TZID=Europe/Brussels:20260326T110000
