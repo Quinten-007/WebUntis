@@ -293,7 +293,7 @@ DTEND;TZID=Europe/Brussels:20260428T160000
 UID:1443898-20260428-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.07.ELL (50) Leslokaal
+LOCATION:03.07.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python OOP
@@ -533,7 +533,7 @@ DTEND;TZID=Europe/Brussels:20260512T160000
 UID:1443910-20260512-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.07.ELL (50) Leslokaal
+LOCATION:03.07.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python OOP
@@ -663,7 +663,7 @@ DTEND;TZID=Europe/Brussels:20260522T130000
 UID:1500675-20260522-1100@webuntis-sync
 DESCRIPTION:Horsmans\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.07.ELL (50) Leslokaal
+LOCATION:03.07.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System administration
@@ -742,15 +742,6 @@ LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
   01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:System administration
-DTSTART;TZID=Europe/Brussels:20260529T140000
-DTEND;TZID=Europe/Brussels:20260529T160000
-UID:1443958-20260529-1400@webuntis-sync
-DESCRIPTION:Horsmans\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
- bo
-LOCATION:03.05.ELL (49) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Communication
 DTSTART;TZID=Europe/Brussels:20260601T090000
 DTEND;TZID=Europe/Brussels:20260601T110000
@@ -779,8 +770,8 @@ DTSTART;TZID=Europe/Brussels:20260605T090000
 DTEND;TZID=Europe/Brussels:20260605T120000
 UID:1455201-20260605-900@webuntis-sync
 DESCRIPTION:De Vos / Horsmans / Similon / Van Battel\n1IT_AI1 / 1IT_CSC1 /
-  1IT_CSC2 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n-------------------
- -\nℹ️ Digitaal examen: kennis 60 min (+15 min)\, vaardigheid 120 min
+  1IT_CSC2 / 1IT_IMT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\nℹ️ D
+ igitaal examen: kennis 60 min (+15 min)\, vaardigheid 120 min
 LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
   01.08_3.ELL (144) Auditorium 3
 END:VEVENT
