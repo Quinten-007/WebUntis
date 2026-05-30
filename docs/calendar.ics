@@ -4,14 +4,6 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:Linux services
-DTSTART;TZID=Europe/Brussels:20260330T110000
-DTEND;TZID=Europe/Brussels:20260330T130000
-UID:511643-20260330-1100@webuntis-sync
-DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (40) Projectlokaal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:System administration
 DTSTART;TZID=Europe/Brussels:20260331T100000
 DTEND;TZID=Europe/Brussels:20260331T110000
