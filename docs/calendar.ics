@@ -185,7 +185,7 @@ DTEND;TZID=Europe/Brussels:20260428T160000
 UID:1443898-20260428-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.07.ELL (50) Leslokaal
+LOCATION:03.07.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python OOP
@@ -425,7 +425,7 @@ DTEND;TZID=Europe/Brussels:20260512T160000
 UID:1443910-20260512-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.07.ELL (50) Leslokaal
+LOCATION:03.07.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python OOP
@@ -555,7 +555,7 @@ DTEND;TZID=Europe/Brussels:20260522T130000
 UID:1500675-20260522-1100@webuntis-sync
 DESCRIPTION:Horsmans\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.07.ELL (50) Leslokaal
+LOCATION:03.07.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System administration
@@ -621,7 +621,7 @@ DTSTART;TZID=Europe/Brussels:20260528T110000
 DTEND;TZID=Europe/Brussels:20260528T130000
 UID:1449371-20260528-1100@webuntis-sync
 DESCRIPTION:Binnemans\n1IT_CSC2
-LOCATION:03.02.ELL (48) Leslokaal
+LOCATION:03.02.ELL (52) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python OOP
@@ -756,7 +756,7 @@ UID:1505939-20260824-900@webuntis-sync
 DESCRIPTION:Binnemans / Van Eyken\n1IT_AI1 / 1IT_CSC1 / 1IT_CSC2 / 1IT_CSC
  3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\nℹ
  ️ Mondeling examen vaardigheid
-LOCATION:03.04.ELL (48) Leslokaal\, 03.06.ELL (60) Leslokaal
+LOCATION:03.04.ELL (50) Leslokaal\, 03.06.ELL (60) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Communication
@@ -766,7 +766,7 @@ UID:1505966-20260825-900@webuntis-sync
 DESCRIPTION:Binnemans / Van Eyken\n1IT_AI1 / 1IT_CSC1 / 1IT_CSC2 / 1IT_CSC
  3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\nℹ
  ️ Mondeling examen vaardigheid
-LOCATION:03.04.ELL (48) Leslokaal\, 03.06.ELL (60) Leslokaal
+LOCATION:03.04.ELL (50) Leslokaal\, 03.06.ELL (60) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -830,7 +830,7 @@ UID:1506392-20260907-1500@webuntis-sync
 DESCRIPTION:Manderyck / Peetermans / Vander Vennet / Vanhulle\n1IT_CSC1 / 
  1IT_CSC2 / 1IT_CSC3 / 2IT_IOT1\n--------------------\nℹ️ Digitaal exam
  en vaardigheid
-LOCATION:03.04.ELL (48) Leslokaal\, 03.06.ELL (60) Leslokaal\, 03.10.ELL (
+LOCATION:03.04.ELL (50) Leslokaal\, 03.06.ELL (60) Leslokaal\, 03.10.ELL (
  50) Leslokaal\, 03.12.ELL (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
