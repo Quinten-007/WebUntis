@@ -167,7 +167,7 @@ DTEND;TZID=Europe/Brussels:20260428T160000
 UID:1443898-20260428-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.07.ELL (49) Leslokaal
+LOCATION:03.07.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python OOP
@@ -407,7 +407,7 @@ DTEND;TZID=Europe/Brussels:20260512T160000
 UID:1443910-20260512-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.07.ELL (49) Leslokaal
+LOCATION:03.07.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python OOP
@@ -537,7 +537,7 @@ DTEND;TZID=Europe/Brussels:20260522T130000
 UID:1500675-20260522-1100@webuntis-sync
 DESCRIPTION:Horsmans\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.07.ELL (49) Leslokaal
+LOCATION:03.07.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System administration
