@@ -4,34 +4,6 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:System administration
-DTSTART;TZID=Europe/Brussels:20260428T100000
-DTEND;TZID=Europe/Brussels:20260428T110000
-UID:521309-20260428-1000@webuntis-sync
-DESCRIPTION:Horsmans\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3\n--------------------
- \nℹ️ Theorie
-LOCATION:02.03.ELL (129) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Routing & switching
-DTSTART;TZID=Europe/Brussels:20260428T110000
-DTEND;TZID=Europe/Brussels:20260428T130000
-UID:517716-20260428-1100@webuntis-sync
-DESCRIPTION:Horsmans\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2
- \n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Routing & switching
-DTSTART;TZID=Europe/Brussels:20260428T140000
-DTEND;TZID=Europe/Brussels:20260428T160000
-UID:1443898-20260428-1400@webuntis-sync
-DESCRIPTION:Waeyaert\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
- bo
-LOCATION:03.07.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Python OOP
 DTSTART;TZID=Europe/Brussels:20260429T090000
 DTEND;TZID=Europe/Brussels:20260429T110000
