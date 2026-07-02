@@ -9,7 +9,7 @@ DTSTART;TZID=Europe/Brussels:20260504T110000
 DTEND;TZID=Europe/Brussels:20260504T130000
 UID:511661-20260504-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (38) Theorielokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -18,8 +18,8 @@ DTEND;TZID=Europe/Brussels:20260504T160000
 UID:502541-20260504-1400@webuntis-sync
 DESCRIPTION:Dams\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2\n--
  ------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System administration
@@ -37,8 +37,8 @@ DTEND;TZID=Europe/Brussels:20260505T130000
 UID:517722-20260505-1100@webuntis-sync
 DESCRIPTION:Horsmans\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2
  \n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Routing & switching
@@ -47,7 +47,7 @@ DTEND;TZID=Europe/Brussels:20260505T160000
 UID:1443904-20260505-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.11.ELL (48) Leslokaal
+LOCATION:03.11.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analysis
@@ -57,8 +57,8 @@ UID:1324746-20260505-1600@webuntis-sync
 DESCRIPTION:Van Eyken\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 /
   1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n-------------------
  -\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python OOP
@@ -67,7 +67,7 @@ DTEND;TZID=Europe/Brussels:20260506T110000
 UID:1443862-20260506-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.06.ELL (59) Leslokaal
+LOCATION:03.06.ELL (60) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
@@ -94,8 +94,8 @@ UID:1328945-20260507-900@webuntis-sync
 DESCRIPTION:De Vos\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 / 1I
  T_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\n
  ℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -113,8 +113,8 @@ DTEND;TZID=Europe/Brussels:20260508T110000
 UID:517206-20260508-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT_AI1 / 1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_IOT1\
  n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Communication
@@ -147,7 +147,7 @@ DTSTART;TZID=Europe/Brussels:20260511T110000
 DTEND;TZID=Europe/Brussels:20260511T130000
 UID:511667-20260511-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (38) Theorielokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -156,8 +156,8 @@ DTEND;TZID=Europe/Brussels:20260511T160000
 UID:502547-20260511-1400@webuntis-sync
 DESCRIPTION:Dams\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2\n--
  ------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System administration
@@ -175,8 +175,8 @@ DTEND;TZID=Europe/Brussels:20260512T130000
 UID:517728-20260512-1100@webuntis-sync
 DESCRIPTION:Horsmans\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2
  \n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Infosessie eerstejaars
@@ -186,8 +186,8 @@ UID:1429229-20260512-1300@webuntis-sync
 DESCRIPTION:Hendrickx / Peetermans / Schraepen / Serneels / Van Grieken\n1
  IT_AI1 / 1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 /
   1IT_SOF2\n--------------------\nℹ️ Infosessie Minoren
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Routing & switching
@@ -196,7 +196,7 @@ DTEND;TZID=Europe/Brussels:20260512T160000
 UID:1443910-20260512-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.07.ELL (49) Leslokaal
+LOCATION:03.07.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python OOP
@@ -205,7 +205,7 @@ DTEND;TZID=Europe/Brussels:20260513T110000
 UID:1443868-20260513-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.06.ELL (59) Leslokaal
+LOCATION:03.06.ELL (60) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
@@ -214,7 +214,7 @@ DTEND;TZID=Europe/Brussels:20260513T130000
 UID:1500114-20260513-1100@webuntis-sync
 DESCRIPTION:Verhulst\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.06.ELL (59) Leslokaal
+LOCATION:03.06.ELL (60) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analysis
@@ -231,7 +231,7 @@ DTSTART;TZID=Europe/Brussels:20260518T110000
 DTEND;TZID=Europe/Brussels:20260518T130000
 UID:511673-20260518-1100@webuntis-sync
 DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (38) Theorielokaal
+LOCATION:03.07_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyber security
@@ -240,8 +240,8 @@ DTEND;TZID=Europe/Brussels:20260518T170000
 UID:502553-20260518-1400@webuntis-sync
 DESCRIPTION:Dams\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2\n--
  ------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System administration
@@ -259,8 +259,8 @@ DTEND;TZID=Europe/Brussels:20260519T130000
 UID:517734-20260519-1100@webuntis-sync
 DESCRIPTION:Horsmans\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2
  \n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Routing & switching
@@ -279,8 +279,8 @@ UID:1324752-20260519-1600@webuntis-sync
 DESCRIPTION:Van Eyken\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 /
   1IT_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n-------------------
  -\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python OOP
@@ -289,7 +289,7 @@ DTEND;TZID=Europe/Brussels:20260520T110000
 UID:1443874-20260520-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.06.ELL (59) Leslokaal
+LOCATION:03.06.ELL (60) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System administration
@@ -316,8 +316,8 @@ DTEND;TZID=Europe/Brussels:20260522T110000
 UID:517212-20260522-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT_AI1 / 1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_IOT1\
  n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System administration
@@ -326,7 +326,7 @@ DTEND;TZID=Europe/Brussels:20260522T130000
 UID:1500675-20260522-1100@webuntis-sync
 DESCRIPTION:Horsmans\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.07.ELL (49) Leslokaal
+LOCATION:03.07.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System administration
@@ -344,8 +344,8 @@ DTEND;TZID=Europe/Brussels:20260526T130000
 UID:517740-20260526-1100@webuntis-sync
 DESCRIPTION:Horsmans\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2
  \n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
@@ -355,8 +355,8 @@ UID:1482779-20260526-1600@webuntis-sync
 DESCRIPTION:De Vos\n1IT_AI1 / 1IT_BUS uitdovend / 1IT_CSC1 / 1IT_CSC2 / 1I
  T_CSC3 / 1IT_IMT1 / 1IT_IOT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\n
  ℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python OOP
@@ -365,7 +365,7 @@ DTEND;TZID=Europe/Brussels:20260527T110000
 UID:1451162-20260527-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT_AI1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_IOT1\n----------
  ----------\nℹ️ Labo
-LOCATION:01.37.VIA (180) Aula
+LOCATION:01.37.VIA (180) aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
@@ -401,8 +401,8 @@ DTEND;TZID=Europe/Brussels:20260529T110000
 UID:517218-20260529-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT_AI1 / 1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_IOT1\
  n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Communication
@@ -412,8 +412,8 @@ UID:1454727-20260601-900@webuntis-sync
 DESCRIPTION:Bollaert / Charpentier / De Magtige / Van Eyken\n1IT_AI1 / 1IT
  _CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2\n--------------------\n
  ℹ️ Digitaal examen: vaardigheid
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analysis
@@ -424,8 +424,8 @@ DESCRIPTION:Michiels / Van Battel / Van Eyken / Verhulst\n1IT_BUS uitdoven
  d / 1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_IMT1 / 1IT_SOF1 / 1IT_SOF2\n-----
  ---------------\nℹ️ Digitaal examen: kennis 15 min (+4 min extra tijd)
  \, vaardigheid 105 min
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
@@ -435,8 +435,8 @@ UID:1455201-20260605-900@webuntis-sync
 DESCRIPTION:De Vos / Horsmans / Similon / Van Battel\n1IT_AI1 / 1IT_CSC1 /
   1IT_CSC2 / 1IT_IMT1 / 1IT_SOF1 / 1IT_SOF2\n--------------------\nℹ️ D
  igitaal examen: kennis 60 min (+15 min)\, vaardigheid 120 min
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python OOP
@@ -473,8 +473,8 @@ UID:1455000-20260615-900@webuntis-sync
 DESCRIPTION:Michiels / Serneels / Van Battel / Waeyaert\n1IT_CSC1 / 1IT_CS
  C2 / 1IT_CSC3 / 1IT_SOF1\n--------------------\nℹ️ Digitaal examen: ke
  nnis
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Routing & switching
@@ -484,8 +484,8 @@ UID:1455003-20260615-1100@webuntis-sync
 DESCRIPTION:Michiels / Serneels / Van Battel / Waeyaert\n1IT_CSC1 / 1IT_CS
  C2 / 1IT_CSC3 / 1IT_SOF1\n--------------------\nℹ️ Digitaal examen: va
  ardigheid
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System administration
@@ -494,8 +494,8 @@ DTEND;TZID=Europe/Brussels:20260617T120000
 UID:1455117-20260617-1100@webuntis-sync
 DESCRIPTION:Cop / Horsmans / Van Merode / Vanhulle\n1IT_CSC1 / 1IT_CSC2 / 
  1IT_CSC3\n--------------------\nℹ️ Digitaal examen kennis
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System administration
@@ -504,8 +504,8 @@ DTEND;TZID=Europe/Brussels:20260617T150000
 UID:1455120-20260617-1300@webuntis-sync
 DESCRIPTION:Cop / Horsmans / Van Merode / Vanhulle\n1IT_CSC1 / 1IT_CSC2 / 
  1IT_CSC3\n--------------------\nℹ️ Digitaal examen vaardigheid
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inzagerecht_dag
@@ -547,8 +547,8 @@ UID:1506056-20260826-900@webuntis-sync
 DESCRIPTION:Dams / De Magtige / Waeyaert\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 /
   1IT_SOF1 / 1IT_SOF2 / 2IT_AI1\n--------------------\nℹ️ Digitaal exam
  en kennis
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Routing & switching
@@ -557,8 +557,8 @@ DTEND;TZID=Europe/Brussels:20260826T150000
 UID:1506617-20260826-1400@webuntis-sync
 DESCRIPTION:Horsmans / Waeyaert\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1
   / 1IT_SOF2\n--------------------\nℹ️ Digitaal examen kennis
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Routing & switching
@@ -567,7 +567,7 @@ DTEND;TZID=Europe/Brussels:20260826T180000
 UID:1506620-20260826-1600@webuntis-sync
 DESCRIPTION:Horsmans / Waeyaert\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1
   / 1IT_SOF2\n--------------------\nℹ️ Digitaal examen vaardigheid
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 END:VCALENDAR
