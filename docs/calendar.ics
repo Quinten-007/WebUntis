@@ -75,7 +75,7 @@ DTEND;TZID=Europe/Brussels:20260513T110000
 UID:1443868-20260513-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.06.ELL (59) Leslokaal
+LOCATION:03.06.ELL (60) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
@@ -84,7 +84,7 @@ DTEND;TZID=Europe/Brussels:20260513T130000
 UID:1500114-20260513-1100@webuntis-sync
 DESCRIPTION:Verhulst\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.06.ELL (59) Leslokaal
+LOCATION:03.06.ELL (60) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analysis
@@ -159,7 +159,7 @@ DTEND;TZID=Europe/Brussels:20260520T110000
 UID:1443874-20260520-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.06.ELL (59) Leslokaal
+LOCATION:03.06.ELL (60) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System administration
@@ -279,7 +279,7 @@ SUMMARY:Communication
 DTSTART;TZID=Europe/Brussels:20260601T090000
 DTEND;TZID=Europe/Brussels:20260601T110000
 UID:1454727-20260601-900@webuntis-sync
-DESCRIPTION:Bollaert / Charpentier / De Magtige / Van Eyken\n1IT_AI1 / 1IT
+DESCRIPTION:Bollaert / Charpentier / Van Eyken / de Magtige\n1IT_AI1 / 1IT
  _CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2\n--------------------\n
  ℹ️ Digitaal examen: vaardigheid
 LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
@@ -414,7 +414,7 @@ SUMMARY:Cyber security
 DTSTART;TZID=Europe/Brussels:20260826T090000
 DTEND;TZID=Europe/Brussels:20260826T100000
 UID:1506056-20260826-900@webuntis-sync
-DESCRIPTION:Dams / De Magtige / Waeyaert\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 /
+DESCRIPTION:Dams / Waeyaert / de Magtige\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 /
   1IT_SOF1 / 1IT_SOF2 / 2IT_AI1\n--------------------\nℹ️ Digitaal exam
  en kennis
 LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
