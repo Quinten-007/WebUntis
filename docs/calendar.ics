@@ -75,7 +75,7 @@ DTEND;TZID=Europe/Brussels:20260513T110000
 UID:1443868-20260513-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.06.ELL (60) Leslokaal
+LOCATION:03.06.ELL (59) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
@@ -84,7 +84,7 @@ DTEND;TZID=Europe/Brussels:20260513T130000
 UID:1500114-20260513-1100@webuntis-sync
 DESCRIPTION:Verhulst\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.06.ELL (60) Leslokaal
+LOCATION:03.06.ELL (59) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Analysis
@@ -159,7 +159,7 @@ DTEND;TZID=Europe/Brussels:20260520T110000
 UID:1443874-20260520-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT_CSC2 / 1IT_CSC3\n--------------------\nℹ️ La
  bo
-LOCATION:03.06.ELL (60) Leslokaal
+LOCATION:03.06.ELL (59) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:System administration
@@ -235,7 +235,7 @@ DTEND;TZID=Europe/Brussels:20260527T110000
 UID:1451162-20260527-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT_AI1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_IOT1\n----------
  ----------\nℹ️ Labo
-LOCATION:01.37.VIA (180) aula
+LOCATION:01.37.VIA (180) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web programming
