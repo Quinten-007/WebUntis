@@ -4,32 +4,6 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:Communication
-DTSTART;TZID=Europe/Brussels:20260511T090000
-DTEND;TZID=Europe/Brussels:20260511T110000
-UID:1449365-20260511-900@webuntis-sync
-DESCRIPTION:Binnemans\n1IT_CSC2
-LOCATION:03.08.ELL (40) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Linux services
-DTSTART;TZID=Europe/Brussels:20260511T110000
-DTEND;TZID=Europe/Brussels:20260511T130000
-UID:511667-20260511-1100@webuntis-sync
-DESCRIPTION:Peetermans\n1IT_CSC2\n--------------------\nℹ️ Labo
-LOCATION:03.07_B.VIA (38) Theorielokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cyber security
-DTSTART;TZID=Europe/Brussels:20260511T140000
-DTEND;TZID=Europe/Brussels:20260511T160000
-UID:502547-20260511-1400@webuntis-sync
-DESCRIPTION:Dams\n1IT_CSC1 / 1IT_CSC2 / 1IT_CSC3 / 1IT_SOF1 / 1IT_SOF2\n--
- ------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:System administration
 DTSTART;TZID=Europe/Brussels:20260512T100000
 DTEND;TZID=Europe/Brussels:20260512T110000
