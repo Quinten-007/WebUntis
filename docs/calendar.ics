@@ -26,7 +26,7 @@ DESCRIPTION:Similon\n2de jaar Bachelor Toegepaste Informatica & Elektronic
  a-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste
   Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n----
  ----------------\nℹ️ Labo
-LOCATION:05.007.NOO (46) leslokaal
+LOCATION:05.007.NOO (46) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DevOps
@@ -37,7 +37,7 @@ DESCRIPTION:Nys\n2de jaar Bachelor Toegepaste Informatica & Elektronica-IC
  T: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Inf
  ormatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--------
  ------------\nℹ️ Labo
-LOCATION:05.006.NOO (47) leslokaal
+LOCATION:05.006.NOO (47) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web Frameworks
@@ -378,9 +378,11 @@ DTSTART;TZID=Europe/Brussels:20260925T140000
 DTEND;TZID=Europe/Brussels:20260925T160000
 UID:3119907-20260925-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
- ca-ICT: Cyber Security and Cloud daggroep 2a\n--------------------\nℹ️
-  Groepsleren
-LOCATION:-01.007.NOO (47) leslokaal
+ ca-ICT: Cyber Security and Cloud daggroep 1b / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2a / 2d
+ e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
+ nd Cloud daggroep 2b\n--------------------\nℹ️ Groepsleren
+LOCATION:01.01.ELL (45) Projectlokaal CSC en SNB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Project methodology
@@ -406,7 +408,7 @@ DESCRIPTION:Manderyck\n2de jaar Bachelor Toegepaste Informatica & Elektron
  and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elektro
  nica-ICT: Cyber Security and Cloud daggroep 2b\n--------------------\nℹ
  ️ Theorie
-LOCATION:00.038.NOO (81) aula
+LOCATION:00.038.NOO (81) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web Frameworks
@@ -428,7 +430,7 @@ DESCRIPTION:Nys\n2de jaar Bachelor Toegepaste Informatica & Elektronica-IC
  T: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Inf
  ormatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--------
  ------------\nℹ️ Labo
-LOCATION:05.006.NOO (47) leslokaal
+LOCATION:05.006.NOO (47) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud Computing
@@ -617,7 +619,7 @@ DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
  ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
  e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
  -----------------\nℹ️ Labo
-LOCATION:-01.021.NOO (46) leslokaal
+LOCATION:-01.021.NOO (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python advanced
@@ -702,7 +704,7 @@ DESCRIPTION:Van Eyken\n2de jaar Bachelor Toegepaste Informatica & Elektron
  ica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepas
  te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--
  ------------------\nℹ️ Labo Communicatie
-LOCATION:01.107.NOO (70) leslokaal
+LOCATION:01.107.NOO (70) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud Computing
@@ -743,9 +745,11 @@ DTSTART;TZID=Europe/Brussels:20261002T140000
 DTEND;TZID=Europe/Brussels:20261002T160000
 UID:3119913-20261002-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
- ca-ICT: Cyber Security and Cloud daggroep 2a\n--------------------\nℹ️
-  Groepsleren
-LOCATION:02.06.B.VIA (40) Leslokaal
+ ca-ICT: Cyber Security and Cloud daggroep 1b / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2a / 2d
+ e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
+ nd Cloud daggroep 2b\n--------------------\nℹ️ Groepsleren
+LOCATION:01.01.ELL (45) Projectlokaal CSC en SNB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Network Security
@@ -770,7 +774,7 @@ DESCRIPTION:Similon\n2de jaar Bachelor Toegepaste Informatica & Elektronic
  a-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste
   Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n----
  ----------------\nℹ️ Labo
-LOCATION:00.038.NOO (81) aula
+LOCATION:00.038.NOO (81) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DevOps
@@ -981,7 +985,7 @@ DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
  ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
  e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
  -----------------\nℹ️ Labo
-LOCATION:-01.021.NOO (46) leslokaal
+LOCATION:-01.021.NOO (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python advanced
@@ -1055,7 +1059,7 @@ DESCRIPTION:Van Eyken\n2de jaar Bachelor Toegepaste Informatica & Elektron
  ica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepas
  te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--
  ------------------\nℹ️ Labo Communicatie
-LOCATION:01.108.NOO (65) leslokaal
+LOCATION:01.108.NOO (65) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud Computing
@@ -1096,9 +1100,11 @@ DTSTART;TZID=Europe/Brussels:20261009T140000
 DTEND;TZID=Europe/Brussels:20261009T160000
 UID:3119919-20261009-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
- ca-ICT: Cyber Security and Cloud daggroep 2a\n--------------------\nℹ️
-  Groepsleren
-LOCATION:-01.019.NOO (40) Leslokaal
+ ca-ICT: Cyber Security and Cloud daggroep 1b / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2a / 2d
+ e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
+ nd Cloud daggroep 2b\n--------------------\nℹ️ Groepsleren
+LOCATION:01.01.ELL (45) Projectlokaal CSC en SNB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web Frameworks
@@ -1120,7 +1126,7 @@ DESCRIPTION:Nys\n2de jaar Bachelor Toegepaste Informatica & Elektronica-IC
  T: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Inf
  ormatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--------
  ------------\nℹ️ Labo
-LOCATION:03.017.NOO (46) leslokaal
+LOCATION:03.017.NOO (46) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud Computing
@@ -1309,7 +1315,7 @@ DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
  ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
  e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
  -----------------\nℹ️ Labo
-LOCATION:01.108.NOO (65) leslokaal
+LOCATION:01.108.NOO (65) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python advanced
@@ -1383,7 +1389,7 @@ DESCRIPTION:Van Eyken\n2de jaar Bachelor Toegepaste Informatica & Elektron
  ica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepas
  te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--
  ------------------\nℹ️ Labo Communicatie
-LOCATION:03.015.NOO (42) leslokaal
+LOCATION:03.015.NOO (42) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud Computing
@@ -1424,9 +1430,11 @@ DTSTART;TZID=Europe/Brussels:20261016T140000
 DTEND;TZID=Europe/Brussels:20261016T170000
 UID:3119925-20261016-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
- ca-ICT: Cyber Security and Cloud daggroep 2a\n--------------------\nℹ️
-  Groepsleren
-LOCATION:03.06.ELL (59) Leslokaal
+ ca-ICT: Cyber Security and Cloud daggroep 1b / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2a / 2d
+ e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
+ nd Cloud daggroep 2b\n--------------------\nℹ️ Groepsleren
+LOCATION:01.01.ELL (45) Projectlokaal CSC en SNB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Network Security
@@ -1662,7 +1670,7 @@ DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
  ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
  e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
  -----------------\nℹ️ Labo
-LOCATION:-01.009.NOO (38) leslokaal
+LOCATION:-01.009.NOO (32) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python advanced
@@ -1736,7 +1744,7 @@ DESCRIPTION:Van Eyken\n2de jaar Bachelor Toegepaste Informatica & Elektron
  ica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepas
  te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--
  ------------------\nℹ️ Labo Communicatie
-LOCATION:01.108.NOO (65) leslokaal
+LOCATION:01.108.NOO (65) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud Computing
@@ -1777,9 +1785,11 @@ DTSTART;TZID=Europe/Brussels:20261023T140000
 DTEND;TZID=Europe/Brussels:20261023T160000
 UID:3119931-20261023-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
- ca-ICT: Cyber Security and Cloud daggroep 2a\n--------------------\nℹ️
-  Groepsleren
-LOCATION:03.12.ELL (48) Leslokaal
+ ca-ICT: Cyber Security and Cloud daggroep 1b / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2a / 2d
+ e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
+ nd Cloud daggroep 2b\n--------------------\nℹ️ Groepsleren
+LOCATION:01.01.ELL (45) Projectlokaal CSC en SNB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web Frameworks
@@ -1801,7 +1811,7 @@ DESCRIPTION:Nys\n2de jaar Bachelor Toegepaste Informatica & Elektronica-IC
  T: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Inf
  ormatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--------
  ------------\nℹ️ Labo
-LOCATION:-01.019.NOO (40) Leslokaal
+LOCATION:-01.019.NOO (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud Computing
@@ -1990,7 +2000,7 @@ DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
  ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
  e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
  -----------------\nℹ️ Labo
-LOCATION:-01.023.NOO (45) leslokaal
+LOCATION:-01.023.NOO (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python advanced
@@ -2086,7 +2096,7 @@ DESCRIPTION:Van Eyken\n2de jaar Bachelor Toegepaste Informatica & Elektron
  ica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepas
  te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--
  ------------------\nℹ️ Labo Communicatie
-LOCATION:03.015.NOO (42) leslokaal
+LOCATION:03.015.NOO (42) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud Computing
@@ -2127,9 +2137,11 @@ DTSTART;TZID=Europe/Brussels:20261030T140000
 DTEND;TZID=Europe/Brussels:20261030T170000
 UID:3119937-20261030-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
- ca-ICT: Cyber Security and Cloud daggroep 2a\n--------------------\nℹ️
-  Groepsleren
-LOCATION:03.10.ELL (50) Leslokaal
+ ca-ICT: Cyber Security and Cloud daggroep 1b / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2a / 2d
+ e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
+ nd Cloud daggroep 2b\n--------------------\nℹ️ Groepsleren
+LOCATION:01.01.ELL (45) Projectlokaal CSC en SNB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Network Security
@@ -2454,9 +2466,11 @@ DTSTART;TZID=Europe/Brussels:20261113T140000
 DTEND;TZID=Europe/Brussels:20261113T160000
 UID:3119943-20261113-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
- ca-ICT: Cyber Security and Cloud daggroep 2a\n--------------------\nℹ️
-  Groepsleren
-LOCATION:03.13.ELL (40) Leslokaal
+ ca-ICT: Cyber Security and Cloud daggroep 1b / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2a / 2d
+ e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
+ nd Cloud daggroep 2b\n--------------------\nℹ️ Groepsleren
+LOCATION:01.01.ELL (45) Projectlokaal CSC en SNB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web Frameworks
@@ -2667,7 +2681,7 @@ DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
  ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
  e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
  -----------------\nℹ️ Labo
-LOCATION:NOO.01.110 (48) Leslokaal
+LOCATION:01.110.NOO (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python advanced
@@ -2804,9 +2818,11 @@ DTSTART;TZID=Europe/Brussels:20261120T140000
 DTEND;TZID=Europe/Brussels:20261120T170000
 UID:3119949-20261120-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
- ca-ICT: Cyber Security and Cloud daggroep 2a\n--------------------\nℹ️
-  Groepsleren
-LOCATION:03.13.ELL (40) Leslokaal
+ ca-ICT: Cyber Security and Cloud daggroep 1b / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2a / 2d
+ e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
+ nd Cloud daggroep 2b\n--------------------\nℹ️ Groepsleren
+LOCATION:01.01.ELL (45) Projectlokaal CSC en SNB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Network Security
@@ -3157,9 +3173,11 @@ DTSTART;TZID=Europe/Brussels:20261127T140000
 DTEND;TZID=Europe/Brussels:20261127T170000
 UID:3119955-20261127-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
- ca-ICT: Cyber Security and Cloud daggroep 2a\n--------------------\nℹ️
-  Groepsleren
-LOCATION:03.13.ELL (40) Leslokaal
+ ca-ICT: Cyber Security and Cloud daggroep 1b / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2a / 2d
+ e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
+ nd Cloud daggroep 2b\n--------------------\nℹ️ Groepsleren
+LOCATION:01.01.ELL (45) Projectlokaal CSC en SNB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web Frameworks
@@ -3370,7 +3388,7 @@ DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
  ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
  e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
  -----------------\nℹ️ Labo
-LOCATION:NOO.01.110 (48) Leslokaal
+LOCATION:01.110.NOO (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python advanced
@@ -3507,9 +3525,11 @@ DTSTART;TZID=Europe/Brussels:20261204T140000
 DTEND;TZID=Europe/Brussels:20261204T160000
 UID:3119961-20261204-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
- ca-ICT: Cyber Security and Cloud daggroep 2a\n--------------------\nℹ️
-  Groepsleren
-LOCATION:03.13.ELL (40) Leslokaal
+ ca-ICT: Cyber Security and Cloud daggroep 1b / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2a / 2d
+ e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
+ nd Cloud daggroep 2b\n--------------------\nℹ️ Groepsleren
+LOCATION:01.01.ELL (45) Projectlokaal CSC en SNB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Network Security
@@ -3860,9 +3880,11 @@ DTSTART;TZID=Europe/Brussels:20261211T140000
 DTEND;TZID=Europe/Brussels:20261211T160000
 UID:3119967-20261211-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
- ca-ICT: Cyber Security and Cloud daggroep 2a\n--------------------\nℹ️
-  Groepsleren
-LOCATION:03.13.ELL (40) Leslokaal
+ ca-ICT: Cyber Security and Cloud daggroep 1b / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2a / 2d
+ e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
+ nd Cloud daggroep 2b\n--------------------\nℹ️ Groepsleren
+LOCATION:01.01.ELL (45) Projectlokaal CSC en SNB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web Frameworks
@@ -4073,7 +4095,7 @@ DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
  ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
  e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
  -----------------\nℹ️ Labo
-LOCATION:NOO.01.110 (48) Leslokaal
+LOCATION:01.110.NOO (48) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python advanced
@@ -4188,9 +4210,11 @@ DTSTART;TZID=Europe/Brussels:20261218T140000
 DTEND;TZID=Europe/Brussels:20261218T170000
 UID:3119973-20261218-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
- ca-ICT: Cyber Security and Cloud daggroep 2a\n--------------------\nℹ️
-  Groepsleren
-LOCATION:03.017.NOO (46) leslokaal
+ ca-ICT: Cyber Security and Cloud daggroep 1b / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2a / 2d
+ e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
+ nd Cloud daggroep 2b\n--------------------\nℹ️ Groepsleren
+LOCATION:01.01.ELL (45) Projectlokaal CSC en SNB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Network Security
@@ -4508,8 +4532,10 @@ DTSTART;TZID=Europe/Brussels:20270108T140000
 DTEND;TZID=Europe/Brussels:20270108T160000
 UID:3119979-20270108-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
- ca-ICT: Cyber Security and Cloud daggroep 2a\n--------------------\nℹ️
-  Groepsleren
-LOCATION:03.13.ELL (40) Leslokaal
+ ca-ICT: Cyber Security and Cloud daggroep 1b / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2a / 2d
+ e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
+ nd Cloud daggroep 2b\n--------------------\nℹ️ Groepsleren
+LOCATION:01.01.ELL (45) Projectlokaal CSC en SNB
 END:VEVENT
 END:VCALENDAR
