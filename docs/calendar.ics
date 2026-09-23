@@ -5,6 +5,1431 @@ X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
 SUMMARY:Network Security
+DTSTART;TZID=Europe/Brussels:20260921T090000
+DTEND;TZID=Europe/Brussels:20260921T110000
+UID:2818341-20260921-900@webuntis-sync
+DESCRIPTION:Manderyck\n2de jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bachelor Toegepas
+ te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1b / 2
+ de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security 
+ and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elektro
+ nica-ICT: Cyber Security and Cloud daggroep 2b\n--------------------\nℹ
+ ️ Theorie
+LOCATION:02.03.ELL (129) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web Frameworks
+DTSTART;TZID=Europe/Brussels:20260921T110000
+DTEND;TZID=Europe/Brussels:20260921T130000
+UID:2824335-20260921-1100@webuntis-sync
+DESCRIPTION:Similon\n2de jaar Bachelor Toegepaste Informatica & Elektronic
+ a-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste
+  Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n----
+ ----------------\nℹ️ Labo
+LOCATION:05.007.NOO (46) leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DevOps
+DTSTART;TZID=Europe/Brussels:20260921T140000
+DTEND;TZID=Europe/Brussels:20260921T160000
+UID:2813925-20260921-1400@webuntis-sync
+DESCRIPTION:Nys\n2de jaar Bachelor Toegepaste Informatica & Elektronica-IC
+ T: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Inf
+ ormatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--------
+ ------------\nℹ️ Labo
+LOCATION:05.006.NOO (47) leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web Frameworks
+DTSTART;TZID=Europe/Brussels:20260921T160000
+DTEND;TZID=Europe/Brussels:20260921T180000
+UID:2824023-20260921-1600@webuntis-sync
+DESCRIPTION:Michiels\n1ste jaar Bachelor IT & Software vervolgtraject na G
+ RAD Programmeren dag / 2de jaar Bachelor IT & Cyber Security and Cloud ver
+ volgtraject na GRAD Systeem en netwerkbeheer dag / 2de jaar Bachelor IT & 
+ Internet of Things vervolgtraject na GRAD Internet of Things dag / 2de jaa
+ r Bachelor Toegepaste Informatica & Elektronica-ICT: Artifical Intelligenc
+ e daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT:
+  Business daggroep 1 uitdovend / 2de jaar Bachelor Toegepaste Informatica 
+ & Elektronica-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bachelo
+ r Toegepaste Informatica & Elektronica-ICT: Cyber Security and Cloud daggr
+ oep 1b / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber
+  Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informatica
+  & Elektronica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bachel
+ or Toegepaste Informatica & Elektronica-ICT: Immersive Technologies daggro
+ ep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Interne
+ t of Things daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektr
+ onica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegepaste Informatica 
+ & Elektronica-ICT: Software daggroep 2\n--------------------\nℹ️ Theor
+ ie
+LOCATION:01.27.VIA (265) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enterprise networking
+DTSTART;TZID=Europe/Brussels:20260922T110000
+DTEND;TZID=Europe/Brussels:20260922T120000
+UID:2815188-20260922-1100@webuntis-sync
+DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1b / 2d
+ e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
+ nd Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT: Cyber Security and Cloud daggroep 2b\n--------------------\nℹ
+ ️ Theorie
+LOCATION:02.01.ELL (87) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robot dynamics
+DTSTART;TZID=Europe/Brussels:20260922T140000
+DTEND;TZID=Europe/Brussels:20260922T150000
+UID:2821518-20260922-1400@webuntis-sync
+DESCRIPTION:Van Grieken / Verlinden\n1ste jaar Bachelor IT & Cyber Securit
+ y and Cloud vervolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaa
+ r Bachelor IT & Internet of Things vervolgtraject na GRAD Internet of Thin
+ gs dag / 1ste jaar Bachelor IT & Software vervolgtraject na GRAD Programme
+ ren dag / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Arti
+ fical Intelligence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica &
+  Elektronica-ICT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegep
+ aste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1a /
+  2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Securit
+ y and Cloud daggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elekt
+ ronica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toege
+ paste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b 
+ / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Immersive Te
+ chnologies daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektro
+ nica-ICT: Internet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Inf
+ ormatica & Elektronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegep
+ aste Informatica & Elektronica-ICT: Software daggroep 2\n-----------------
+ ---\nℹ️ Theorie
+LOCATION:03.02.ELL (48) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ideation
+DTSTART;TZID=Europe/Brussels:20260922T150000
+DTEND;TZID=Europe/Brussels:20260922T160000
+UID:2841205-20260922-1500@webuntis-sync
+DESCRIPTION:Schraepen\n1ste jaar Bachelor IT & Cyber Security and Cloud ve
+ rvolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaar Bachelor IT 
+ & Internet of Things vervolgtraject na GRAD Internet of Things dag / 1ste 
+ jaar Bachelor IT & Software vervolgtraject na GRAD Programmeren dag / 2de 
+ jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Artifical Intellig
+ ence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-I
+ CT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bach
+ elor Toegepaste Informatica & Elektronica-ICT: Cyber Security and Cloud da
+ ggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cy
+ ber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informat
+ ica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bac
+ helor Toegepaste Informatica & Elektronica-ICT: Immersive Technologies dag
+ groep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Inte
+ rnet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Ele
+ ktronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Software daggroep 2\n--------------------\nℹ️ Th
+ eorie
+LOCATION:01.27.VIA (265) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robot dynamics
+DTSTART;TZID=Europe/Brussels:20260922T150000
+DTEND;TZID=Europe/Brussels:20260922T160000
+UID:2821557-20260922-1500@webuntis-sync
+DESCRIPTION:Van Grieken / Verlinden\n1ste jaar Bachelor IT & Cyber Securit
+ y and Cloud vervolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaa
+ r Bachelor IT & Internet of Things vervolgtraject na GRAD Internet of Thin
+ gs dag / 1ste jaar Bachelor IT & Software vervolgtraject na GRAD Programme
+ ren dag / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Arti
+ fical Intelligence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica &
+  Elektronica-ICT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegep
+ aste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1a /
+  2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Securit
+ y and Cloud daggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elekt
+ ronica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toege
+ paste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b 
+ / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Immersive Te
+ chnologies daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektro
+ nica-ICT: Internet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Inf
+ ormatica & Elektronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegep
+ aste Informatica & Elektronica-ICT: Software daggroep 2\n-----------------
+ ---\nℹ️ Labo
+LOCATION:03.02.ELL (48) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ideation
+DTSTART;TZID=Europe/Brussels:20260922T160000
+DTEND;TZID=Europe/Brussels:20260922T170000
+UID:2841244-20260922-1600@webuntis-sync
+DESCRIPTION:Schraepen\n1ste jaar Bachelor IT & Cyber Security and Cloud ve
+ rvolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaar Bachelor IT 
+ & Internet of Things vervolgtraject na GRAD Internet of Things dag / 1ste 
+ jaar Bachelor IT & Software vervolgtraject na GRAD Programmeren dag / 2de 
+ jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Artifical Intellig
+ ence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-I
+ CT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bach
+ elor Toegepaste Informatica & Elektronica-ICT: Cyber Security and Cloud da
+ ggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cy
+ ber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informat
+ ica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bac
+ helor Toegepaste Informatica & Elektronica-ICT: Immersive Technologies dag
+ groep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Inte
+ rnet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Ele
+ ktronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Software daggroep 2\n--------------------\nℹ️ La
+ bo
+LOCATION:03.10.ELL (50) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robot dynamics
+DTSTART;TZID=Europe/Brussels:20260922T160000
+DTEND;TZID=Europe/Brussels:20260922T170000
+UID:2821560-20260922-1600@webuntis-sync
+DESCRIPTION:Van Grieken / Verlinden\n1ste jaar Bachelor IT & Cyber Securit
+ y and Cloud vervolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaa
+ r Bachelor IT & Internet of Things vervolgtraject na GRAD Internet of Thin
+ gs dag / 1ste jaar Bachelor IT & Software vervolgtraject na GRAD Programme
+ ren dag / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Arti
+ fical Intelligence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica &
+  Elektronica-ICT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegep
+ aste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1a /
+  2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Securit
+ y and Cloud daggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elekt
+ ronica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toege
+ paste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b 
+ / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Immersive Te
+ chnologies daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektro
+ nica-ICT: Internet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Inf
+ ormatica & Elektronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegep
+ aste Informatica & Elektronica-ICT: Software daggroep 2\n-----------------
+ ---\nℹ️ Labo
+LOCATION:03.02.ELL (48) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ideation
+DTSTART;TZID=Europe/Brussels:20260922T170000
+DTEND;TZID=Europe/Brussels:20260922T180000
+UID:2841247-20260922-1700@webuntis-sync
+DESCRIPTION:Schraepen\n1ste jaar Bachelor IT & Cyber Security and Cloud ve
+ rvolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaar Bachelor IT 
+ & Internet of Things vervolgtraject na GRAD Internet of Things dag / 1ste 
+ jaar Bachelor IT & Software vervolgtraject na GRAD Programmeren dag / 2de 
+ jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Artifical Intellig
+ ence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-I
+ CT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bach
+ elor Toegepaste Informatica & Elektronica-ICT: Cyber Security and Cloud da
+ ggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cy
+ ber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informat
+ ica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bac
+ helor Toegepaste Informatica & Elektronica-ICT: Immersive Technologies dag
+ groep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Inte
+ rnet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Ele
+ ktronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Software daggroep 2\n--------------------\nℹ️ La
+ bo
+LOCATION:03.10.ELL (50) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Python advanced
+DTSTART;TZID=Europe/Brussels:20260923T100000
+DTEND;TZID=Europe/Brussels:20260923T130000
+UID:2821071-20260923-1000@webuntis-sync
+DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
+ -----------------\nℹ️ Labo
+LOCATION:03.03.ELL (49) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Python advanced
+DTSTART;TZID=Europe/Brussels:20260923T140000
+DTEND;TZID=Europe/Brussels:20260923T160000
+UID:2820882-20260923-1400@webuntis-sync
+DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1b / 2d
+ e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
+ nd Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bachelor Toegepas
+ te Informatica & Elektronica-ICT: Internet of Things daggroep 1\n---------
+ -----------\nℹ️ Theorie
+LOCATION:02.01.ELL (87) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ideation for Maker
+DTSTART;TZID=Europe/Brussels:20260924T100000
+DTEND;TZID=Europe/Brussels:20260924T120000
+UID:2815542-20260924-1000@webuntis-sync
+DESCRIPTION:Hendrickx\n1ste jaar Bachelor IT & Cyber Security and Cloud ve
+ rvolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaar Bachelor IT 
+ & Internet of Things vervolgtraject na GRAD Internet of Things dag / 1ste 
+ jaar Bachelor IT & Software vervolgtraject na GRAD Programmeren dag / 2de 
+ jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Artifical Intellig
+ ence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-I
+ CT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bach
+ elor Toegepaste Informatica & Elektronica-ICT: Cyber Security and Cloud da
+ ggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cy
+ ber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informat
+ ica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bac
+ helor Toegepaste Informatica & Elektronica-ICT: Immersive Technologies dag
+ groep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Inte
+ rnet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Ele
+ ktronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Software daggroep 2\n--------------------\nℹ️ Mi
+ nor Maker: labo
+LOCATION:01.10/12.ELL (14) Makerspace 2D\, 01.11.ELL (30) Makerspace 3D\, 
+ 01.13/01.14.ELL (62) Projectlokaal DVG & GDM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DevOps
+DTSTART;TZID=Europe/Brussels:20260924T120000
+DTEND;TZID=Europe/Brussels:20260924T130000
+UID:2813736-20260924-1200@webuntis-sync
+DESCRIPTION:Nys\n1ste jaar Bachelor IT & Cyber Security and Cloud vervolgt
+ raject na GRAD Systeem en netwerkbeheer dag / 2de jaar Bachelor Toegepaste
+  Informatica & Elektronica-ICT: Artifical Intelligence daggroep 1 / 2de ja
+ ar Bachelor Toegepaste Informatica & Elektronica-ICT: Business daggroep 1 
+ uitdovend / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cy
+ ber Security and Cloud daggroep 1a / 2de jaar Bachelor Toegepaste Informat
+ ica & Elektronica-ICT: Cyber Security and Cloud daggroep 1b / 2de jaar Bac
+ helor Toegepaste Informatica & Elektronica-ICT: Cyber Security and Cloud d
+ aggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: C
+ yber Security and Cloud daggroep 2b / 2de jaar Bachelor Toegepaste Informa
+ tica & Elektronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegepaste
+  Informatica & Elektronica-ICT: Software daggroep 2 / Bachelor IT en Artif
+ icial Intelligence verkort programma na Elektronica-ICT dag\n-------------
+ -------\nℹ️ Theorie
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Studay
+DTSTART;TZID=Europe/Brussels:20260924T130000
+DTEND;TZID=Europe/Brussels:20260924T220000
+UID:3134561-20260924-1300@webuntis-sync
+DESCRIPTION:Departement MDI\n1ste jaar Bachelor IT & Cyber Security and Cl
+ oud vervolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaar Bachel
+ or IT & Internet of Things vervolgtraject na GRAD Internet of Things dag /
+  1ste jaar Bachelor IT & Software vervolgtraject na GRAD Programmeren dag 
+ / 1ste jaar Bachelor Toegepaste Informatica & Elektronica-ICT daggroep 1 s
+ emester 1 / 1ste jaar Bachelor Toegepaste Informatica & Elektronica-ICT da
+ ggroep 2 semester 1 / 1ste jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT daggroep 3 semester 1 / 1ste jaar Bachelor Toegepaste Informatica 
+ & Elektronica-ICT daggroep 4 semester 1 / 1ste jaar Bachelor Toegepaste In
+ formatica & Elektronica-ICT daggroep 5 semester 1 / 1ste jaar Bachelor Toe
+ gepaste Informatica & Elektronica-ICT daggroep 6 semester 1 / 1ste jaar Ba
+ chelor Toegepaste Informatica & Elektronica-ICT daggroep 7 semester 1 / 1s
+ te jaar Bachelor Toegepaste Informatica & Elektronica-ICT daggroep 8 semes
+ ter 1 / 2de jaar Bachelor IT & Cyber Security and Cloud vervolgtraject na 
+ GRAD Systeem en netwerkbeheer dag / 2de jaar Bachelor IT & Internet of Thi
+ ngs vervolgtraject na GRAD Internet of Things dag / 2de jaar Bachelor IT &
+  Software vervolgtraject na GRAD Programmeren dag / 2de jaar Bachelor Toeg
+ epaste Informatica & Elektronica-ICT: Artifical Intelligence daggroep 1 / 
+ 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Business daggr
+ oep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Busine
+ ss daggroep 1 uitdovend / 2de jaar Bachelor Toegepaste Informatica & Elekt
+ ronica-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bachelor Toege
+ paste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1b 
+ / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Securi
+ ty and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elek
+ tronica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bachelor Toeg
+ epaste Informatica & Elektronica-ICT: Immersive Technologies daggroep 1 / 
+ 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Internet of Th
+ ings daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-I
+ CT: Software daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elekt
+ ronica-ICT: Software daggroep 2 / 3de jaar Bachelor Toegepaste Informatica
+  & Elektronica-ICT: Artifical Intelligence daggroep 1 / 3de jaar Bachelor 
+ Toegepaste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroe
+ p 1 / 3de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Se
+ curity and Cloud daggroep 2 / 3de jaar Bachelor Toegepaste Informatica & E
+ lektronica-ICT: Internet of Things daggroep 1 / 3de jaar Bachelor Toegepas
+ te Informatica & Elektronica-ICT: Software daggroep 1 / 3de jaar Bachelor 
+ Toegepaste Informatica & Elektronica-ICT: Software daggroep 2 / Bachelor I
+ T en Artificial Intelligence verkort programma na Elektronica-ICT dag / Ba
+ chelor IT en Artificial Intelligence verkort programma na Toegepaste Infor
+ matica dag
+LOCATION:Op locatie\, werkplek of stage MDI
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Network Security
+DTSTART;TZID=Europe/Brussels:20260925T090000
+DTEND;TZID=Europe/Brussels:20260925T110000
+UID:2818383-20260925-900@webuntis-sync
+DESCRIPTION:Manderyck\n2de jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepas
+ te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--
+ ------------------\nℹ️ Labo
+LOCATION:01.05.ELL (32) Cyber security
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enterprise networking
+DTSTART;TZID=Europe/Brussels:20260925T110000
+DTEND;TZID=Europe/Brussels:20260925T130000
+UID:2815227-20260925-1100@webuntis-sync
+DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
+ -----------------\nℹ️ Labo
+LOCATION:01.03.ELL (30) Labo Netwerken
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Security Project Analysis
+DTSTART;TZID=Europe/Brussels:20260925T140000
+DTEND;TZID=Europe/Brussels:20260925T160000
+UID:3119907-20260925-1400@webuntis-sync
+DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 2a\n--------------------\nℹ️
+  Groepsleren
+LOCATION:-01.007.NOO (47) leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project methodology
+DTSTART;TZID=Europe/Brussels:20260925T160000
+DTEND;TZID=Europe/Brussels:20260925T180000
+UID:3151999-20260925-1600@webuntis-sync
+DESCRIPTION:Van Eyken\n2de jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepas
+ te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b / 2
+ de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Immersive Techn
+ ologies daggroep 1\n--------------------\nℹ️ Labo Communicatie
+LOCATION:03.07.ELL (50) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Network Security
+DTSTART;TZID=Europe/Brussels:20260928T090000
+DTEND;TZID=Europe/Brussels:20260928T110000
+UID:3179946-20260928-900@webuntis-sync
+DESCRIPTION:Manderyck\n2de jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bachelor Toegepas
+ te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1b / 2
+ de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security 
+ and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elektro
+ nica-ICT: Cyber Security and Cloud daggroep 2b\n--------------------\nℹ
+ ️ Theorie
+LOCATION:00.038.NOO (81) aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web Frameworks
+DTSTART;TZID=Europe/Brussels:20260928T110000
+DTEND;TZID=Europe/Brussels:20260928T130000
+UID:2824341-20260928-1100@webuntis-sync
+DESCRIPTION:Similon\n2de jaar Bachelor Toegepaste Informatica & Elektronic
+ a-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste
+  Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n----
+ ----------------\nℹ️ Labo
+LOCATION:03.04.ELL (48) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DevOps
+DTSTART;TZID=Europe/Brussels:20260928T140000
+DTEND;TZID=Europe/Brussels:20260928T160000
+UID:2813931-20260928-1400@webuntis-sync
+DESCRIPTION:Nys\n2de jaar Bachelor Toegepaste Informatica & Elektronica-IC
+ T: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Inf
+ ormatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--------
+ ------------\nℹ️ Labo
+LOCATION:05.006.NOO (47) leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud Computing
+DTSTART;TZID=Europe/Brussels:20260928T160000
+DTEND;TZID=Europe/Brussels:20260928T180000
+UID:2811934-20260928-1600@webuntis-sync
+DESCRIPTION:Horsmans\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1b / 2d
+ e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
+ nd Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT: Cyber Security and Cloud daggroep 2b\n--------------------\nℹ
+ ️ Theorie
+LOCATION:02.01.ELL (87) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enterprise networking
+DTSTART;TZID=Europe/Brussels:20260929T110000
+DTEND;TZID=Europe/Brussels:20260929T120000
+UID:2815191-20260929-1100@webuntis-sync
+DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1b / 2d
+ e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
+ nd Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT: Cyber Security and Cloud daggroep 2b\n--------------------\nℹ
+ ️ Theorie
+LOCATION:02.01.ELL (87) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robot dynamics
+DTSTART;TZID=Europe/Brussels:20260929T140000
+DTEND;TZID=Europe/Brussels:20260929T150000
+UID:2821521-20260929-1400@webuntis-sync
+DESCRIPTION:Van Grieken / Verlinden\n1ste jaar Bachelor IT & Cyber Securit
+ y and Cloud vervolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaa
+ r Bachelor IT & Internet of Things vervolgtraject na GRAD Internet of Thin
+ gs dag / 1ste jaar Bachelor IT & Software vervolgtraject na GRAD Programme
+ ren dag / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Arti
+ fical Intelligence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica &
+  Elektronica-ICT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegep
+ aste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1a /
+  2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Securit
+ y and Cloud daggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elekt
+ ronica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toege
+ paste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b 
+ / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Immersive Te
+ chnologies daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektro
+ nica-ICT: Internet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Inf
+ ormatica & Elektronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegep
+ aste Informatica & Elektronica-ICT: Software daggroep 2\n-----------------
+ ---\nℹ️ Theorie
+LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ideation
+DTSTART;TZID=Europe/Brussels:20260929T150000
+DTEND;TZID=Europe/Brussels:20260929T160000
+UID:2841208-20260929-1500@webuntis-sync
+DESCRIPTION:Schraepen\n1ste jaar Bachelor IT & Cyber Security and Cloud ve
+ rvolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaar Bachelor IT 
+ & Internet of Things vervolgtraject na GRAD Internet of Things dag / 1ste 
+ jaar Bachelor IT & Software vervolgtraject na GRAD Programmeren dag / 2de 
+ jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Artifical Intellig
+ ence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-I
+ CT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bach
+ elor Toegepaste Informatica & Elektronica-ICT: Cyber Security and Cloud da
+ ggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cy
+ ber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informat
+ ica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bac
+ helor Toegepaste Informatica & Elektronica-ICT: Immersive Technologies dag
+ groep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Inte
+ rnet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Ele
+ ktronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Software daggroep 2\n--------------------\nℹ️ Th
+ eorie
+LOCATION:01.27.VIA (265) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robot dynamics
+DTSTART;TZID=Europe/Brussels:20260929T150000
+DTEND;TZID=Europe/Brussels:20260929T160000
+UID:2821563-20260929-1500@webuntis-sync
+DESCRIPTION:Van Grieken / Verlinden\n1ste jaar Bachelor IT & Cyber Securit
+ y and Cloud vervolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaa
+ r Bachelor IT & Internet of Things vervolgtraject na GRAD Internet of Thin
+ gs dag / 1ste jaar Bachelor IT & Software vervolgtraject na GRAD Programme
+ ren dag / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Arti
+ fical Intelligence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica &
+  Elektronica-ICT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegep
+ aste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1a /
+  2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Securit
+ y and Cloud daggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elekt
+ ronica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toege
+ paste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b 
+ / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Immersive Te
+ chnologies daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektro
+ nica-ICT: Internet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Inf
+ ormatica & Elektronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegep
+ aste Informatica & Elektronica-ICT: Software daggroep 2\n-----------------
+ ---\nℹ️ Labo
+LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ideation
+DTSTART;TZID=Europe/Brussels:20260929T160000
+DTEND;TZID=Europe/Brussels:20260929T170000
+UID:2841250-20260929-1600@webuntis-sync
+DESCRIPTION:Schraepen\n1ste jaar Bachelor IT & Cyber Security and Cloud ve
+ rvolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaar Bachelor IT 
+ & Internet of Things vervolgtraject na GRAD Internet of Things dag / 1ste 
+ jaar Bachelor IT & Software vervolgtraject na GRAD Programmeren dag / 2de 
+ jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Artifical Intellig
+ ence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-I
+ CT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bach
+ elor Toegepaste Informatica & Elektronica-ICT: Cyber Security and Cloud da
+ ggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cy
+ ber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informat
+ ica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bac
+ helor Toegepaste Informatica & Elektronica-ICT: Immersive Technologies dag
+ groep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Inte
+ rnet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Ele
+ ktronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Software daggroep 2\n--------------------\nℹ️ La
+ bo
+LOCATION:03.10.ELL (50) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robot dynamics
+DTSTART;TZID=Europe/Brussels:20260929T160000
+DTEND;TZID=Europe/Brussels:20260929T170000
+UID:2821566-20260929-1600@webuntis-sync
+DESCRIPTION:Van Grieken / Verlinden\n1ste jaar Bachelor IT & Cyber Securit
+ y and Cloud vervolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaa
+ r Bachelor IT & Internet of Things vervolgtraject na GRAD Internet of Thin
+ gs dag / 1ste jaar Bachelor IT & Software vervolgtraject na GRAD Programme
+ ren dag / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Arti
+ fical Intelligence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica &
+  Elektronica-ICT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegep
+ aste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1a /
+  2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Securit
+ y and Cloud daggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elekt
+ ronica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toege
+ paste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b 
+ / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Immersive Te
+ chnologies daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektro
+ nica-ICT: Internet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Inf
+ ormatica & Elektronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegep
+ aste Informatica & Elektronica-ICT: Software daggroep 2\n-----------------
+ ---\nℹ️ Labo
+LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ideation
+DTSTART;TZID=Europe/Brussels:20260929T170000
+DTEND;TZID=Europe/Brussels:20260929T180000
+UID:2841253-20260929-1700@webuntis-sync
+DESCRIPTION:Schraepen\n1ste jaar Bachelor IT & Cyber Security and Cloud ve
+ rvolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaar Bachelor IT 
+ & Internet of Things vervolgtraject na GRAD Internet of Things dag / 1ste 
+ jaar Bachelor IT & Software vervolgtraject na GRAD Programmeren dag / 2de 
+ jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Artifical Intellig
+ ence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-I
+ CT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bach
+ elor Toegepaste Informatica & Elektronica-ICT: Cyber Security and Cloud da
+ ggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cy
+ ber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informat
+ ica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bac
+ helor Toegepaste Informatica & Elektronica-ICT: Immersive Technologies dag
+ groep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Inte
+ rnet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Ele
+ ktronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Software daggroep 2\n--------------------\nℹ️ La
+ bo
+LOCATION:03.10.ELL (50) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Python advanced
+DTSTART;TZID=Europe/Brussels:20260930T100000
+DTEND;TZID=Europe/Brussels:20260930T130000
+UID:2821080-20260930-1000@webuntis-sync
+DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
+ -----------------\nℹ️ Labo
+LOCATION:-01.021.NOO (46) leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Python advanced
+DTSTART;TZID=Europe/Brussels:20260930T140000
+DTEND;TZID=Europe/Brussels:20260930T160000
+UID:2820888-20260930-1400@webuntis-sync
+DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1b / 2d
+ e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
+ nd Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bachelor Toegepas
+ te Informatica & Elektronica-ICT: Internet of Things daggroep 1\n---------
+ -----------\nℹ️ Theorie
+LOCATION:02.01.ELL (87) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Network Security
+DTSTART;TZID=Europe/Brussels:20260930T160000
+DTEND;TZID=Europe/Brussels:20260930T180000
+UID:3179958-20260930-1600@webuntis-sync
+DESCRIPTION:Manderyck\n2de jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepas
+ te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--
+ ------------------\nℹ️ Labo
+LOCATION:01.07.ELL (45) Projectlokaal PROG
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ideation for Maker
+DTSTART;TZID=Europe/Brussels:20261001T100000
+DTEND;TZID=Europe/Brussels:20261001T120000
+UID:2815551-20261001-1000@webuntis-sync
+DESCRIPTION:Hendrickx\n1ste jaar Bachelor IT & Cyber Security and Cloud ve
+ rvolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaar Bachelor IT 
+ & Internet of Things vervolgtraject na GRAD Internet of Things dag / 1ste 
+ jaar Bachelor IT & Software vervolgtraject na GRAD Programmeren dag / 2de 
+ jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Artifical Intellig
+ ence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-I
+ CT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bach
+ elor Toegepaste Informatica & Elektronica-ICT: Cyber Security and Cloud da
+ ggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cy
+ ber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informat
+ ica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bac
+ helor Toegepaste Informatica & Elektronica-ICT: Immersive Technologies dag
+ groep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Inte
+ rnet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Ele
+ ktronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Software daggroep 2\n--------------------\nℹ️ Mi
+ nor Maker: labo
+LOCATION:01.10/12.ELL (14) Makerspace 2D\, 01.11.ELL (30) Makerspace 3D\, 
+ 01.13/01.14.ELL (62) Projectlokaal DVG & GDM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DevOps
+DTSTART;TZID=Europe/Brussels:20261001T120000
+DTEND;TZID=Europe/Brussels:20261001T130000
+UID:2813739-20261001-1200@webuntis-sync
+DESCRIPTION:Nys\n1ste jaar Bachelor IT & Cyber Security and Cloud vervolgt
+ raject na GRAD Systeem en netwerkbeheer dag / 2de jaar Bachelor Toegepaste
+  Informatica & Elektronica-ICT: Artifical Intelligence daggroep 1 / 2de ja
+ ar Bachelor Toegepaste Informatica & Elektronica-ICT: Business daggroep 1 
+ uitdovend / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cy
+ ber Security and Cloud daggroep 1a / 2de jaar Bachelor Toegepaste Informat
+ ica & Elektronica-ICT: Cyber Security and Cloud daggroep 1b / 2de jaar Bac
+ helor Toegepaste Informatica & Elektronica-ICT: Cyber Security and Cloud d
+ aggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: C
+ yber Security and Cloud daggroep 2b / 2de jaar Bachelor Toegepaste Informa
+ tica & Elektronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegepaste
+  Informatica & Elektronica-ICT: Software daggroep 2 / Bachelor IT en Artif
+ icial Intelligence verkort programma na Elektronica-ICT dag\n-------------
+ -------\nℹ️ Theorie
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project methodology
+DTSTART;TZID=Europe/Brussels:20261001T140000
+DTEND;TZID=Europe/Brussels:20261001T160000
+UID:2820042-20261001-1400@webuntis-sync
+DESCRIPTION:Van Eyken\n2de jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepas
+ te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--
+ ------------------\nℹ️ Labo Communicatie
+LOCATION:01.107.NOO (70) leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud Computing
+DTSTART;TZID=Europe/Brussels:20261001T160000
+DTEND;TZID=Europe/Brussels:20261001T180000
+UID:2811862-20261001-1600@webuntis-sync
+DESCRIPTION:Horsmans\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
+ -----------------\nℹ️ Labo
+LOCATION:03.08.ELL (40) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Network Security
+DTSTART;TZID=Europe/Brussels:20261002T090000
+DTEND;TZID=Europe/Brussels:20261002T110000
+UID:2818389-20261002-900@webuntis-sync
+DESCRIPTION:Manderyck\n2de jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepas
+ te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--
+ ------------------\nℹ️ Labo
+LOCATION:01.05.ELL (32) Cyber security
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enterprise networking
+DTSTART;TZID=Europe/Brussels:20261002T110000
+DTEND;TZID=Europe/Brussels:20261002T130000
+UID:2815233-20261002-1100@webuntis-sync
+DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
+ -----------------\nℹ️ Labo
+LOCATION:01.03.ELL (30) Labo Netwerken
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Security Project Analysis
+DTSTART;TZID=Europe/Brussels:20261002T140000
+DTEND;TZID=Europe/Brussels:20261002T160000
+UID:3119913-20261002-1400@webuntis-sync
+DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 2a\n--------------------\nℹ️
+  Groepsleren
+LOCATION:02.06.B.VIA (40) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Network Security
+DTSTART;TZID=Europe/Brussels:20261005T090000
+DTEND;TZID=Europe/Brussels:20261005T110000
+UID:2818347-20261005-900@webuntis-sync
+DESCRIPTION:Manderyck\n2de jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bachelor Toegepas
+ te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1b / 2
+ de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security 
+ and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elektro
+ nica-ICT: Cyber Security and Cloud daggroep 2b\n--------------------\nℹ
+ ️ Theorie
+LOCATION:02.03.ELL (129) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web Frameworks
+DTSTART;TZID=Europe/Brussels:20261005T110000
+DTEND;TZID=Europe/Brussels:20261005T130000
+UID:2824347-20261005-1100@webuntis-sync
+DESCRIPTION:Similon\n2de jaar Bachelor Toegepaste Informatica & Elektronic
+ a-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste
+  Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n----
+ ----------------\nℹ️ Labo
+LOCATION:00.038.NOO (81) aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DevOps
+DTSTART;TZID=Europe/Brussels:20261005T140000
+DTEND;TZID=Europe/Brussels:20261005T160000
+UID:2813937-20261005-1400@webuntis-sync
+DESCRIPTION:Nys\n2de jaar Bachelor Toegepaste Informatica & Elektronica-IC
+ T: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Inf
+ ormatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--------
+ ------------\nℹ️ Labo
+LOCATION:00.33.VIA (80) Projectlokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web Frameworks
+DTSTART;TZID=Europe/Brussels:20261005T160000
+DTEND;TZID=Europe/Brussels:20261005T180000
+UID:2824029-20261005-1600@webuntis-sync
+DESCRIPTION:Michiels\n1ste jaar Bachelor IT & Software vervolgtraject na G
+ RAD Programmeren dag / 2de jaar Bachelor IT & Cyber Security and Cloud ver
+ volgtraject na GRAD Systeem en netwerkbeheer dag / 2de jaar Bachelor IT & 
+ Internet of Things vervolgtraject na GRAD Internet of Things dag / 2de jaa
+ r Bachelor Toegepaste Informatica & Elektronica-ICT: Artifical Intelligenc
+ e daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT:
+  Business daggroep 1 uitdovend / 2de jaar Bachelor Toegepaste Informatica 
+ & Elektronica-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bachelo
+ r Toegepaste Informatica & Elektronica-ICT: Cyber Security and Cloud daggr
+ oep 1b / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber
+  Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informatica
+  & Elektronica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bachel
+ or Toegepaste Informatica & Elektronica-ICT: Immersive Technologies daggro
+ ep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Interne
+ t of Things daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektr
+ onica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegepaste Informatica 
+ & Elektronica-ICT: Software daggroep 2\n--------------------\nℹ️ Theor
+ ie
+LOCATION:01.27.VIA (265) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enterprise networking
+DTSTART;TZID=Europe/Brussels:20261006T110000
+DTEND;TZID=Europe/Brussels:20261006T120000
+UID:2815194-20261006-1100@webuntis-sync
+DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1b / 2d
+ e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
+ nd Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT: Cyber Security and Cloud daggroep 2b\n--------------------\nℹ
+ ️ Theorie
+LOCATION:02.01.ELL (87) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robot dynamics
+DTSTART;TZID=Europe/Brussels:20261006T140000
+DTEND;TZID=Europe/Brussels:20261006T150000
+UID:2821524-20261006-1400@webuntis-sync
+DESCRIPTION:Van Grieken / Verlinden\n1ste jaar Bachelor IT & Cyber Securit
+ y and Cloud vervolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaa
+ r Bachelor IT & Internet of Things vervolgtraject na GRAD Internet of Thin
+ gs dag / 1ste jaar Bachelor IT & Software vervolgtraject na GRAD Programme
+ ren dag / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Arti
+ fical Intelligence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica &
+  Elektronica-ICT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegep
+ aste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1a /
+  2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Securit
+ y and Cloud daggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elekt
+ ronica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toege
+ paste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b 
+ / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Immersive Te
+ chnologies daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektro
+ nica-ICT: Internet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Inf
+ ormatica & Elektronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegep
+ aste Informatica & Elektronica-ICT: Software daggroep 2\n-----------------
+ ---\nℹ️ Theorie
+LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ideation
+DTSTART;TZID=Europe/Brussels:20261006T150000
+DTEND;TZID=Europe/Brussels:20261006T160000
+UID:2841211-20261006-1500@webuntis-sync
+DESCRIPTION:Schraepen\n1ste jaar Bachelor IT & Cyber Security and Cloud ve
+ rvolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaar Bachelor IT 
+ & Internet of Things vervolgtraject na GRAD Internet of Things dag / 1ste 
+ jaar Bachelor IT & Software vervolgtraject na GRAD Programmeren dag / 2de 
+ jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Artifical Intellig
+ ence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-I
+ CT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bach
+ elor Toegepaste Informatica & Elektronica-ICT: Cyber Security and Cloud da
+ ggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cy
+ ber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informat
+ ica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bac
+ helor Toegepaste Informatica & Elektronica-ICT: Immersive Technologies dag
+ groep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Inte
+ rnet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Ele
+ ktronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Software daggroep 2\n--------------------\nℹ️ Th
+ eorie
+LOCATION:01.27.VIA (265) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robot dynamics
+DTSTART;TZID=Europe/Brussels:20261006T150000
+DTEND;TZID=Europe/Brussels:20261006T160000
+UID:2821569-20261006-1500@webuntis-sync
+DESCRIPTION:Van Grieken / Verlinden\n1ste jaar Bachelor IT & Cyber Securit
+ y and Cloud vervolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaa
+ r Bachelor IT & Internet of Things vervolgtraject na GRAD Internet of Thin
+ gs dag / 1ste jaar Bachelor IT & Software vervolgtraject na GRAD Programme
+ ren dag / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Arti
+ fical Intelligence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica &
+  Elektronica-ICT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegep
+ aste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1a /
+  2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Securit
+ y and Cloud daggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elekt
+ ronica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toege
+ paste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b 
+ / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Immersive Te
+ chnologies daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektro
+ nica-ICT: Internet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Inf
+ ormatica & Elektronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegep
+ aste Informatica & Elektronica-ICT: Software daggroep 2\n-----------------
+ ---\nℹ️ Labo
+LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ideation
+DTSTART;TZID=Europe/Brussels:20261006T160000
+DTEND;TZID=Europe/Brussels:20261006T170000
+UID:2841256-20261006-1600@webuntis-sync
+DESCRIPTION:Schraepen\n1ste jaar Bachelor IT & Cyber Security and Cloud ve
+ rvolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaar Bachelor IT 
+ & Internet of Things vervolgtraject na GRAD Internet of Things dag / 1ste 
+ jaar Bachelor IT & Software vervolgtraject na GRAD Programmeren dag / 2de 
+ jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Artifical Intellig
+ ence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-I
+ CT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bach
+ elor Toegepaste Informatica & Elektronica-ICT: Cyber Security and Cloud da
+ ggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cy
+ ber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informat
+ ica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bac
+ helor Toegepaste Informatica & Elektronica-ICT: Immersive Technologies dag
+ groep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Inte
+ rnet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Ele
+ ktronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Software daggroep 2\n--------------------\nℹ️ La
+ bo
+LOCATION:03.10.ELL (50) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robot dynamics
+DTSTART;TZID=Europe/Brussels:20261006T160000
+DTEND;TZID=Europe/Brussels:20261006T170000
+UID:2821572-20261006-1600@webuntis-sync
+DESCRIPTION:Van Grieken / Verlinden\n1ste jaar Bachelor IT & Cyber Securit
+ y and Cloud vervolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaa
+ r Bachelor IT & Internet of Things vervolgtraject na GRAD Internet of Thin
+ gs dag / 1ste jaar Bachelor IT & Software vervolgtraject na GRAD Programme
+ ren dag / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Arti
+ fical Intelligence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica &
+  Elektronica-ICT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegep
+ aste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1a /
+  2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Securit
+ y and Cloud daggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elekt
+ ronica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toege
+ paste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b 
+ / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Immersive Te
+ chnologies daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektro
+ nica-ICT: Internet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Inf
+ ormatica & Elektronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegep
+ aste Informatica & Elektronica-ICT: Software daggroep 2\n-----------------
+ ---\nℹ️ Labo
+LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ideation
+DTSTART;TZID=Europe/Brussels:20261006T170000
+DTEND;TZID=Europe/Brussels:20261006T180000
+UID:2841259-20261006-1700@webuntis-sync
+DESCRIPTION:Schraepen\n1ste jaar Bachelor IT & Cyber Security and Cloud ve
+ rvolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaar Bachelor IT 
+ & Internet of Things vervolgtraject na GRAD Internet of Things dag / 1ste 
+ jaar Bachelor IT & Software vervolgtraject na GRAD Programmeren dag / 2de 
+ jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Artifical Intellig
+ ence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-I
+ CT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bach
+ elor Toegepaste Informatica & Elektronica-ICT: Cyber Security and Cloud da
+ ggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cy
+ ber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informat
+ ica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bac
+ helor Toegepaste Informatica & Elektronica-ICT: Immersive Technologies dag
+ groep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Inte
+ rnet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Ele
+ ktronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Software daggroep 2\n--------------------\nℹ️ La
+ bo
+LOCATION:03.10.ELL (50) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Python advanced
+DTSTART;TZID=Europe/Brussels:20261007T100000
+DTEND;TZID=Europe/Brussels:20261007T130000
+UID:2821089-20261007-1000@webuntis-sync
+DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
+ -----------------\nℹ️ Labo
+LOCATION:-01.021.NOO (46) leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Python advanced
+DTSTART;TZID=Europe/Brussels:20261007T140000
+DTEND;TZID=Europe/Brussels:20261007T160000
+UID:2820894-20261007-1400@webuntis-sync
+DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1b / 2d
+ e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
+ nd Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bachelor Toegepas
+ te Informatica & Elektronica-ICT: Internet of Things daggroep 1\n---------
+ -----------\nℹ️ Theorie
+LOCATION:02.01.ELL (87) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ideation for Maker
+DTSTART;TZID=Europe/Brussels:20261008T100000
+DTEND;TZID=Europe/Brussels:20261008T120000
+UID:2815560-20261008-1000@webuntis-sync
+DESCRIPTION:Hendrickx\n1ste jaar Bachelor IT & Cyber Security and Cloud ve
+ rvolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaar Bachelor IT 
+ & Internet of Things vervolgtraject na GRAD Internet of Things dag / 1ste 
+ jaar Bachelor IT & Software vervolgtraject na GRAD Programmeren dag / 2de 
+ jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Artifical Intellig
+ ence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-I
+ CT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bach
+ elor Toegepaste Informatica & Elektronica-ICT: Cyber Security and Cloud da
+ ggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cy
+ ber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informat
+ ica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bac
+ helor Toegepaste Informatica & Elektronica-ICT: Immersive Technologies dag
+ groep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Inte
+ rnet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Ele
+ ktronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Software daggroep 2\n--------------------\nℹ️ Mi
+ nor Maker: labo
+LOCATION:01.10/12.ELL (14) Makerspace 2D\, 01.11.ELL (30) Makerspace 3D\, 
+ 01.13/01.14.ELL (62) Projectlokaal DVG & GDM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DevOps
+DTSTART;TZID=Europe/Brussels:20261008T120000
+DTEND;TZID=Europe/Brussels:20261008T130000
+UID:2813742-20261008-1200@webuntis-sync
+DESCRIPTION:Nys\n1ste jaar Bachelor IT & Cyber Security and Cloud vervolgt
+ raject na GRAD Systeem en netwerkbeheer dag / 2de jaar Bachelor Toegepaste
+  Informatica & Elektronica-ICT: Artifical Intelligence daggroep 1 / 2de ja
+ ar Bachelor Toegepaste Informatica & Elektronica-ICT: Business daggroep 1 
+ uitdovend / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cy
+ ber Security and Cloud daggroep 1a / 2de jaar Bachelor Toegepaste Informat
+ ica & Elektronica-ICT: Cyber Security and Cloud daggroep 1b / 2de jaar Bac
+ helor Toegepaste Informatica & Elektronica-ICT: Cyber Security and Cloud d
+ aggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: C
+ yber Security and Cloud daggroep 2b / 2de jaar Bachelor Toegepaste Informa
+ tica & Elektronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegepaste
+  Informatica & Elektronica-ICT: Software daggroep 2 / Bachelor IT en Artif
+ icial Intelligence verkort programma na Elektronica-ICT dag\n-------------
+ -------\nℹ️ Theorie
+LOCATION:00.030.NOO (232) aula Camille Paulus\, 01.08_2.ELL (125) Auditori
+ um 2\, 01.08_3.ELL (144) Auditorium 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project methodology
+DTSTART;TZID=Europe/Brussels:20261008T140000
+DTEND;TZID=Europe/Brussels:20261008T160000
+UID:2820048-20261008-1400@webuntis-sync
+DESCRIPTION:Van Eyken\n2de jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepas
+ te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--
+ ------------------\nℹ️ Labo Communicatie
+LOCATION:01.108.NOO (65) leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud Computing
+DTSTART;TZID=Europe/Brussels:20261008T160000
+DTEND;TZID=Europe/Brussels:20261008T180000
+UID:2811868-20261008-1600@webuntis-sync
+DESCRIPTION:Horsmans\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
+ -----------------\nℹ️ Labo
+LOCATION:03.08.ELL (40) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Network Security
+DTSTART;TZID=Europe/Brussels:20261009T090000
+DTEND;TZID=Europe/Brussels:20261009T110000
+UID:2818395-20261009-900@webuntis-sync
+DESCRIPTION:Manderyck\n2de jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepas
+ te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--
+ ------------------\nℹ️ Labo
+LOCATION:01.05.ELL (32) Cyber security
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enterprise networking
+DTSTART;TZID=Europe/Brussels:20261009T110000
+DTEND;TZID=Europe/Brussels:20261009T130000
+UID:2815239-20261009-1100@webuntis-sync
+DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
+ -----------------\nℹ️ Labo
+LOCATION:01.03.ELL (30) Labo Netwerken
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Security Project Analysis
+DTSTART;TZID=Europe/Brussels:20261009T140000
+DTEND;TZID=Europe/Brussels:20261009T160000
+UID:3119919-20261009-1400@webuntis-sync
+DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 2a\n--------------------\nℹ️
+  Groepsleren
+LOCATION:-01.019.NOO (40) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web Frameworks
+DTSTART;TZID=Europe/Brussels:20261012T110000
+DTEND;TZID=Europe/Brussels:20261012T130000
+UID:2824353-20261012-1100@webuntis-sync
+DESCRIPTION:Similon\n2de jaar Bachelor Toegepaste Informatica & Elektronic
+ a-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste
+  Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n----
+ ----------------\nℹ️ Labo
+LOCATION:03.04.ELL (48) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DevOps
+DTSTART;TZID=Europe/Brussels:20261012T140000
+DTEND;TZID=Europe/Brussels:20261012T160000
+UID:2813943-20261012-1400@webuntis-sync
+DESCRIPTION:Nys\n2de jaar Bachelor Toegepaste Informatica & Elektronica-IC
+ T: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Inf
+ ormatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--------
+ ------------\nℹ️ Labo
+LOCATION:03.017.NOO (46) leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud Computing
+DTSTART;TZID=Europe/Brussels:20261012T160000
+DTEND;TZID=Europe/Brussels:20261012T180000
+UID:2811940-20261012-1600@webuntis-sync
+DESCRIPTION:Horsmans\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1b / 2d
+ e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
+ nd Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT: Cyber Security and Cloud daggroep 2b\n--------------------\nℹ
+ ️ Theorie
+LOCATION:02.01.ELL (87) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enterprise networking
+DTSTART;TZID=Europe/Brussels:20261013T110000
+DTEND;TZID=Europe/Brussels:20261013T120000
+UID:2815197-20261013-1100@webuntis-sync
+DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1b / 2d
+ e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
+ nd Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT: Cyber Security and Cloud daggroep 2b\n--------------------\nℹ
+ ️ Theorie
+LOCATION:02.01.ELL (87) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robot dynamics
+DTSTART;TZID=Europe/Brussels:20261013T140000
+DTEND;TZID=Europe/Brussels:20261013T150000
+UID:2821527-20261013-1400@webuntis-sync
+DESCRIPTION:Van Grieken / Verlinden\n1ste jaar Bachelor IT & Cyber Securit
+ y and Cloud vervolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaa
+ r Bachelor IT & Internet of Things vervolgtraject na GRAD Internet of Thin
+ gs dag / 1ste jaar Bachelor IT & Software vervolgtraject na GRAD Programme
+ ren dag / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Arti
+ fical Intelligence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica &
+  Elektronica-ICT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegep
+ aste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1a /
+  2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Securit
+ y and Cloud daggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elekt
+ ronica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toege
+ paste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b 
+ / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Immersive Te
+ chnologies daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektro
+ nica-ICT: Internet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Inf
+ ormatica & Elektronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegep
+ aste Informatica & Elektronica-ICT: Software daggroep 2\n-----------------
+ ---\nℹ️ Theorie
+LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ideation
+DTSTART;TZID=Europe/Brussels:20261013T150000
+DTEND;TZID=Europe/Brussels:20261013T160000
+UID:2841214-20261013-1500@webuntis-sync
+DESCRIPTION:Schraepen\n1ste jaar Bachelor IT & Cyber Security and Cloud ve
+ rvolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaar Bachelor IT 
+ & Internet of Things vervolgtraject na GRAD Internet of Things dag / 1ste 
+ jaar Bachelor IT & Software vervolgtraject na GRAD Programmeren dag / 2de 
+ jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Artifical Intellig
+ ence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-I
+ CT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bach
+ elor Toegepaste Informatica & Elektronica-ICT: Cyber Security and Cloud da
+ ggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cy
+ ber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informat
+ ica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bac
+ helor Toegepaste Informatica & Elektronica-ICT: Immersive Technologies dag
+ groep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Inte
+ rnet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Ele
+ ktronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Software daggroep 2\n--------------------\nℹ️ Th
+ eorie
+LOCATION:01.27.VIA (265) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robot dynamics
+DTSTART;TZID=Europe/Brussels:20261013T150000
+DTEND;TZID=Europe/Brussels:20261013T160000
+UID:2821575-20261013-1500@webuntis-sync
+DESCRIPTION:Van Grieken / Verlinden\n1ste jaar Bachelor IT & Cyber Securit
+ y and Cloud vervolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaa
+ r Bachelor IT & Internet of Things vervolgtraject na GRAD Internet of Thin
+ gs dag / 1ste jaar Bachelor IT & Software vervolgtraject na GRAD Programme
+ ren dag / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Arti
+ fical Intelligence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica &
+  Elektronica-ICT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegep
+ aste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1a /
+  2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Securit
+ y and Cloud daggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elekt
+ ronica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toege
+ paste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b 
+ / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Immersive Te
+ chnologies daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektro
+ nica-ICT: Internet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Inf
+ ormatica & Elektronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegep
+ aste Informatica & Elektronica-ICT: Software daggroep 2\n-----------------
+ ---\nℹ️ Labo
+LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ideation
+DTSTART;TZID=Europe/Brussels:20261013T160000
+DTEND;TZID=Europe/Brussels:20261013T170000
+UID:2841262-20261013-1600@webuntis-sync
+DESCRIPTION:Schraepen\n1ste jaar Bachelor IT & Cyber Security and Cloud ve
+ rvolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaar Bachelor IT 
+ & Internet of Things vervolgtraject na GRAD Internet of Things dag / 1ste 
+ jaar Bachelor IT & Software vervolgtraject na GRAD Programmeren dag / 2de 
+ jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Artifical Intellig
+ ence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-I
+ CT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bach
+ elor Toegepaste Informatica & Elektronica-ICT: Cyber Security and Cloud da
+ ggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cy
+ ber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informat
+ ica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bac
+ helor Toegepaste Informatica & Elektronica-ICT: Immersive Technologies dag
+ groep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Inte
+ rnet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Ele
+ ktronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Software daggroep 2\n--------------------\nℹ️ La
+ bo
+LOCATION:03.10.ELL (50) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robot dynamics
+DTSTART;TZID=Europe/Brussels:20261013T160000
+DTEND;TZID=Europe/Brussels:20261013T170000
+UID:2821578-20261013-1600@webuntis-sync
+DESCRIPTION:Van Grieken / Verlinden\n1ste jaar Bachelor IT & Cyber Securit
+ y and Cloud vervolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaa
+ r Bachelor IT & Internet of Things vervolgtraject na GRAD Internet of Thin
+ gs dag / 1ste jaar Bachelor IT & Software vervolgtraject na GRAD Programme
+ ren dag / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Arti
+ fical Intelligence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica &
+  Elektronica-ICT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegep
+ aste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1a /
+  2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Securit
+ y and Cloud daggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elekt
+ ronica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toege
+ paste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b 
+ / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Immersive Te
+ chnologies daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektro
+ nica-ICT: Internet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Inf
+ ormatica & Elektronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegep
+ aste Informatica & Elektronica-ICT: Software daggroep 2\n-----------------
+ ---\nℹ️ Labo
+LOCATION:01.22.ELL (40) Projectlokaal AI & Robotics
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ideation
+DTSTART;TZID=Europe/Brussels:20261013T170000
+DTEND;TZID=Europe/Brussels:20261013T180000
+UID:2841265-20261013-1700@webuntis-sync
+DESCRIPTION:Schraepen\n1ste jaar Bachelor IT & Cyber Security and Cloud ve
+ rvolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaar Bachelor IT 
+ & Internet of Things vervolgtraject na GRAD Internet of Things dag / 1ste 
+ jaar Bachelor IT & Software vervolgtraject na GRAD Programmeren dag / 2de 
+ jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Artifical Intellig
+ ence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-I
+ CT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bach
+ elor Toegepaste Informatica & Elektronica-ICT: Cyber Security and Cloud da
+ ggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cy
+ ber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informat
+ ica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bac
+ helor Toegepaste Informatica & Elektronica-ICT: Immersive Technologies dag
+ groep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Inte
+ rnet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Ele
+ ktronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Software daggroep 2\n--------------------\nℹ️ La
+ bo
+LOCATION:03.10.ELL (50) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Python advanced
+DTSTART;TZID=Europe/Brussels:20261014T100000
+DTEND;TZID=Europe/Brussels:20261014T130000
+UID:2821098-20261014-1000@webuntis-sync
+DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
+ -----------------\nℹ️ Labo
+LOCATION:01.108.NOO (65) leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Python advanced
+DTSTART;TZID=Europe/Brussels:20261014T140000
+DTEND;TZID=Europe/Brussels:20261014T160000
+UID:2820900-20261014-1400@webuntis-sync
+DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1b / 2d
+ e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
+ nd Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bachelor Toegepas
+ te Informatica & Elektronica-ICT: Internet of Things daggroep 1\n---------
+ -----------\nℹ️ Theorie
+LOCATION:02.01.ELL (87) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ideation for Maker
+DTSTART;TZID=Europe/Brussels:20261015T100000
+DTEND;TZID=Europe/Brussels:20261015T120000
+UID:2815569-20261015-1000@webuntis-sync
+DESCRIPTION:Hendrickx\n1ste jaar Bachelor IT & Cyber Security and Cloud ve
+ rvolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaar Bachelor IT 
+ & Internet of Things vervolgtraject na GRAD Internet of Things dag / 1ste 
+ jaar Bachelor IT & Software vervolgtraject na GRAD Programmeren dag / 2de 
+ jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Artifical Intellig
+ ence daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-I
+ CT: Business daggroep 1 uitdovend / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bach
+ elor Toegepaste Informatica & Elektronica-ICT: Cyber Security and Cloud da
+ ggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cy
+ ber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informat
+ ica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bac
+ helor Toegepaste Informatica & Elektronica-ICT: Immersive Technologies dag
+ groep 1 / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Inte
+ rnet of Things daggroep 1 / 2de jaar Bachelor Toegepaste Informatica & Ele
+ ktronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegepaste Informati
+ ca & Elektronica-ICT: Software daggroep 2\n--------------------\nℹ️ Mi
+ nor Maker: labo
+LOCATION:01.10/12.ELL (14) Makerspace 2D\, 01.11.ELL (30) Makerspace 3D\, 
+ 01.13/01.14.ELL (62) Projectlokaal DVG & GDM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DevOps
+DTSTART;TZID=Europe/Brussels:20261015T120000
+DTEND;TZID=Europe/Brussels:20261015T130000
+UID:2813745-20261015-1200@webuntis-sync
+DESCRIPTION:Nys\n1ste jaar Bachelor IT & Cyber Security and Cloud vervolgt
+ raject na GRAD Systeem en netwerkbeheer dag / 2de jaar Bachelor Toegepaste
+  Informatica & Elektronica-ICT: Artifical Intelligence daggroep 1 / 2de ja
+ ar Bachelor Toegepaste Informatica & Elektronica-ICT: Business daggroep 1 
+ uitdovend / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cy
+ ber Security and Cloud daggroep 1a / 2de jaar Bachelor Toegepaste Informat
+ ica & Elektronica-ICT: Cyber Security and Cloud daggroep 1b / 2de jaar Bac
+ helor Toegepaste Informatica & Elektronica-ICT: Cyber Security and Cloud d
+ aggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: C
+ yber Security and Cloud daggroep 2b / 2de jaar Bachelor Toegepaste Informa
+ tica & Elektronica-ICT: Software daggroep 1 / 2de jaar Bachelor Toegepaste
+  Informatica & Elektronica-ICT: Software daggroep 2 / Bachelor IT en Artif
+ icial Intelligence verkort programma na Elektronica-ICT dag\n-------------
+ -------\nℹ️ Theorie
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project methodology
+DTSTART;TZID=Europe/Brussels:20261015T140000
+DTEND;TZID=Europe/Brussels:20261015T160000
+UID:2820054-20261015-1400@webuntis-sync
+DESCRIPTION:Van Eyken\n2de jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepas
+ te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--
+ ------------------\nℹ️ Labo Communicatie
+LOCATION:03.015.NOO (42) leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cloud Computing
+DTSTART;TZID=Europe/Brussels:20261015T160000
+DTEND;TZID=Europe/Brussels:20261015T180000
+UID:2811874-20261015-1600@webuntis-sync
+DESCRIPTION:Horsmans\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
+ -----------------\nℹ️ Labo
+LOCATION:03.08.ELL (40) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Network Security
+DTSTART;TZID=Europe/Brussels:20261016T090000
+DTEND;TZID=Europe/Brussels:20261016T110000
+UID:2818401-20261016-900@webuntis-sync
+DESCRIPTION:Manderyck\n2de jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepas
+ te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--
+ ------------------\nℹ️ Labo
+LOCATION:01.05.ELL (32) Cyber security
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enterprise networking
+DTSTART;TZID=Europe/Brussels:20261016T110000
+DTEND;TZID=Europe/Brussels:20261016T130000
+UID:2815245-20261016-1100@webuntis-sync
+DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
+ -----------------\nℹ️ Labo
+LOCATION:01.03.ELL (30) Labo Netwerken
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Security Project Analysis
+DTSTART;TZID=Europe/Brussels:20261016T140000
+DTEND;TZID=Europe/Brussels:20261016T170000
+UID:3119925-20261016-1400@webuntis-sync
+DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 2a\n--------------------\nℹ️
+  Groepsleren
+LOCATION:03.06.ELL (59) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Network Security
 DTSTART;TZID=Europe/Brussels:20261019T090000
 DTEND;TZID=Europe/Brussels:20261019T110000
 UID:2818353-20261019-900@webuntis-sync
