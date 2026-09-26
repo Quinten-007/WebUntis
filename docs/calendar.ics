@@ -4,32 +4,6 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:Python advanced
-DTSTART;TZID=Europe/Brussels:20260923T100000
-DTEND;TZID=Europe/Brussels:20260923T130000
-UID:2821071-20260923-1000@webuntis-sync
-DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
- ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
- e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
- -----------------\nℹ️ Labo
-LOCATION:03.03.ELL (49) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Python advanced
-DTSTART;TZID=Europe/Brussels:20260923T140000
-DTEND;TZID=Europe/Brussels:20260923T160000
-UID:2820882-20260923-1400@webuntis-sync
-DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
- ca-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bachelor Toegepast
- e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1b / 2d
- e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
- nd Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elektron
- ica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bachelor Toegepas
- te Informatica & Elektronica-ICT: Internet of Things daggroep 1\n---------
- -----------\nℹ️ Theorie
-LOCATION:02.01.ELL (87) Aula
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ideation for Maker
 DTSTART;TZID=Europe/Brussels:20260924T100000
 DTEND;TZID=Europe/Brussels:20260924T120000
