@@ -911,7 +911,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Security Project Analysis
 DTSTART;TZID=Europe/Brussels:20261016T140000
-DTEND;TZID=Europe/Brussels:20261016T170000
+DTEND;TZID=Europe/Brussels:20261016T160000
 UID:3119925-20261016-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
  ca-ICT: Cyber Security and Cloud daggroep 1b / 2de jaar Bachelor Toegepast
@@ -2192,7 +2192,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Security Project Analysis
 DTSTART;TZID=Europe/Brussels:20261120T140000
-DTEND;TZID=Europe/Brussels:20261120T170000
+DTEND;TZID=Europe/Brussels:20261120T160000
 UID:3119949-20261120-1400@webuntis-sync
 DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
  ca-ICT: Cyber Security and Cloud daggroep 1b / 2de jaar Bachelor Toegepast
