@@ -4,56 +4,6 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:Network Security
-DTSTART;TZID=Europe/Brussels:20260928T090000
-DTEND;TZID=Europe/Brussels:20260928T110000
-UID:3179946-20260928-900@webuntis-sync
-DESCRIPTION:Manderyck\n2de jaar Bachelor Toegepaste Informatica & Elektron
- ica-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bachelor Toegepas
- te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1b / 2
- de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security 
- and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elektro
- nica-ICT: Cyber Security and Cloud daggroep 2b\n--------------------\nℹ
- ️ Theorie
-LOCATION:00.038.NOO (81) aula
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Web Frameworks
-DTSTART;TZID=Europe/Brussels:20260928T110000
-DTEND;TZID=Europe/Brussels:20260928T130000
-UID:2824341-20260928-1100@webuntis-sync
-DESCRIPTION:Similon\n2de jaar Bachelor Toegepaste Informatica & Elektronic
- a-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste
-  Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n----
- ----------------\nℹ️ Labo
-LOCATION:03.04.ELL (50) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DevOps
-DTSTART;TZID=Europe/Brussels:20260928T140000
-DTEND;TZID=Europe/Brussels:20260928T160000
-UID:2813931-20260928-1400@webuntis-sync
-DESCRIPTION:Nys\n2de jaar Bachelor Toegepaste Informatica & Elektronica-IC
- T: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Inf
- ormatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--------
- ------------\nℹ️ Labo
-LOCATION:05.006.NOO (47) leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cloud Computing
-DTSTART;TZID=Europe/Brussels:20260928T160000
-DTEND;TZID=Europe/Brussels:20260928T180000
-UID:2811934-20260928-1600@webuntis-sync
-DESCRIPTION:Horsmans\n2de jaar Bachelor Toegepaste Informatica & Elektroni
- ca-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bachelor Toegepast
- e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1b / 2d
- e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
- nd Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elektron
- ica-ICT: Cyber Security and Cloud daggroep 2b\n--------------------\nℹ
- ️ Theorie
-LOCATION:02.01.ELL (87) Aula
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Enterprise networking
 DTSTART;TZID=Europe/Brussels:20260929T110000
 DTEND;TZID=Europe/Brussels:20260929T120000
