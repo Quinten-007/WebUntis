@@ -3170,4 +3170,70 @@ DESCRIPTION:Boeynaems\n1ste jaar Bachelor IT & Cyber Security and Cloud ve
  e
 LOCATION:01.27.VIA (265) Aula
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Infrastructure as code
+DTSTART;TZID=Europe/Brussels:20270217T090000
+DTEND;TZID=Europe/Brussels:20270217T100000
+UID:2952005-20270217-900@webuntis-sync
+DESCRIPTION:de Magtige\n1ste jaar Bachelor IT & Cyber Security and Cloud v
+ ervolgtraject na GRAD Systeem en netwerkbeheer dag / 2de jaar Bachelor Toe
+ gepaste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1
+ a / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Secu
+ rity and Cloud daggroep 1b / 2de jaar Bachelor Toegepaste Informatica & El
+ ektronica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor To
+ egepaste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 
+ 2b\n--------------------\nℹ️ Theorie
+LOCATION:02.01.ELL (87) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue team security
+DTSTART;TZID=Europe/Brussels:20270217T100000
+DTEND;TZID=Europe/Brussels:20270217T110000
+UID:2949227-20270217-1000@webuntis-sync
+DESCRIPTION:Manderyck\n1ste jaar Bachelor IT & Cyber Security and Cloud ve
+ rvolgtraject na GRAD Systeem en netwerkbeheer dag / 2de jaar Bachelor Toeg
+ epaste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1a
+  / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Secur
+ ity and Cloud daggroep 1b / 2de jaar Bachelor Toegepaste Informatica & Ele
+ ktronica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toe
+ gepaste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2
+ b\n--------------------\nℹ️ Theorie
+LOCATION:02.01.ELL (87) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software defined data center
+DTSTART;TZID=Europe/Brussels:20270217T110000
+DTEND;TZID=Europe/Brussels:20270217T120000
+UID:2954659-20270217-1100@webuntis-sync
+DESCRIPTION:Horsmans\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1b / 2d
+ e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
+ nd Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT: Cyber Security and Cloud daggroep 2b\n--------------------\nℹ
+ ️ Theorie
+LOCATION:02.01.ELL (87) Aula
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICT Architecture
+DTSTART;TZID=Europe/Brussels:20270217T120000
+DTEND;TZID=Europe/Brussels:20270217T130000
+UID:2951567-20270217-1200@webuntis-sync
+DESCRIPTION:Nys / Sturm\n1ste jaar Bachelor IT & Cyber Security and Cloud 
+ vervolgtraject na GRAD Systeem en netwerkbeheer dag / 1ste jaar Bachelor I
+ T & Software vervolgtraject na GRAD Programmeren dag / 2de jaar Bachelor T
+ oegepaste Informatica & Elektronica-ICT: Artifical Intelligence daggroep 1
+  / 2de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Business da
+ ggroep 1 uitdovend / 2de jaar Bachelor Toegepaste Informatica & Elektronic
+ a-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bachelor Toegepaste
+  Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1b / 2de
+  jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security an
+ d Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Software daggroep 1a / 2de jaar Bachelor 
+ Toegepaste Informatica & Elektronica-ICT: Software daggroep 1b / Bachelor 
+ IT en Artificial Intelligence verkort programma na Elektronica-ICT dag\n--
+ ------------------\nℹ️ Theorie
+LOCATION:01.27.VIA (265) Aula
+END:VEVENT
 END:VCALENDAR
