@@ -3236,4 +3236,37 @@ DESCRIPTION:Nys / Sturm\n1ste jaar Bachelor IT & Cyber Security and Cloud
  ------------------\nℹ️ Theorie
 LOCATION:01.27.VIA (265) Aula
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICT Architecture
+DTSTART;TZID=Europe/Brussels:20270218T090000
+DTEND;TZID=Europe/Brussels:20270218T110000
+UID:3296801-20270218-900@webuntis-sync
+DESCRIPTION:Nys\n2de jaar Bachelor Toegepaste Informatica & Elektronica-IC
+ T: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Inf
+ ormatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--------
+ ------------\nℹ️ Labo
+LOCATION:03.11.ELL (50) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software defined data center
+DTSTART;TZID=Europe/Brussels:20270218T110000
+DTEND;TZID=Europe/Brussels:20270218T130000
+UID:2954581-20270218-1100@webuntis-sync
+DESCRIPTION:Horsmans\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
+ -----------------\nℹ️ Labo
+LOCATION:03.11.ELL (50) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Infrastructure as code
+DTSTART;TZID=Europe/Brussels:20270218T140000
+DTEND;TZID=Europe/Brussels:20270218T160000
+UID:2952047-20270218-1400@webuntis-sync
+DESCRIPTION:de Magtige\n2de jaar Bachelor Toegepaste Informatica & Elektro
+ nica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepa
+ ste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n-
+ -------------------\nℹ️ Labo
+LOCATION:03.11.ELL (50) Leslokaal
+END:VEVENT
 END:VCALENDAR
