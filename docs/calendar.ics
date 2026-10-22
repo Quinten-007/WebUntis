@@ -26,7 +26,7 @@ DESCRIPTION:Similon\n2de jaar Bachelor Toegepaste Informatica & Elektronic
  a-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste
   Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n----
  ----------------\nℹ️ Labo
-LOCATION:05.007.NOO (46) leslokaal
+LOCATION:05.007.NOO (49) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DevOps
@@ -37,7 +37,7 @@ DESCRIPTION:Nys\n2de jaar Bachelor Toegepaste Informatica & Elektronica-IC
  T: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Inf
  ormatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--------
  ------------\nℹ️ Labo
-LOCATION:05.006.NOO (47) leslokaal
+LOCATION:05.006.NOO (49) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web Frameworks
@@ -300,7 +300,7 @@ DESCRIPTION:Nys\n1ste jaar Bachelor IT & Cyber Security and Cloud vervolgt
  ificial Intelligence verkort programma na Elektronica-ICT dag\n-----------
  ---------\nℹ️ Theorie
 LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+  01.08_3.ELL (144) Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Studay
@@ -394,7 +394,7 @@ DESCRIPTION:Van Eyken\n2de jaar Bachelor Toegepaste Informatica & Elektron
  te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b / 2
  de jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Immersive Techn
  ologies daggroep 1\n--------------------\nℹ️ Labo Communicatie
-LOCATION:03.07.ELL (50) Leslokaal
+LOCATION:03.07.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Network Security
@@ -430,7 +430,7 @@ DESCRIPTION:Nys\n2de jaar Bachelor Toegepaste Informatica & Elektronica-IC
  T: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Inf
  ormatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--------
  ------------\nℹ️ Labo
-LOCATION:05.006.NOO (47) leslokaal
+LOCATION:05.006.NOO (49) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud Computing
@@ -595,7 +595,7 @@ DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
  ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
  e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
  -----------------\nℹ️ Labo
-LOCATION:-01.021.NOO (46) leslokaal
+LOCATION:-01.021.NOO (49) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python advanced
@@ -669,7 +669,7 @@ DESCRIPTION:Nys\n1ste jaar Bachelor IT & Cyber Security and Cloud vervolgt
  ificial Intelligence verkort programma na Elektronica-ICT dag\n-----------
  ---------\nℹ️ Theorie
 LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+  01.08_3.ELL (144) Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Project methodology
@@ -937,7 +937,7 @@ DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
  ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
  e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
  -----------------\nℹ️ Labo
-LOCATION:-01.021.NOO (46) leslokaal
+LOCATION:-01.021.NOO (49) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python advanced
@@ -1010,7 +1010,7 @@ DESCRIPTION:Van Eyken\n2de jaar Bachelor Toegepaste Informatica & Elektron
  ica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepas
  te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--
  ------------------\nℹ️ Labo Communicatie
-LOCATION:01.108.NOO (65) leslokaal
+LOCATION:01.108.NOO (70) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud Computing
@@ -1077,7 +1077,7 @@ DESCRIPTION:Nys\n2de jaar Bachelor Toegepaste Informatica & Elektronica-IC
  T: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Inf
  ormatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--------
  ------------\nℹ️ Labo
-LOCATION:03.017.NOO (46) leslokaal
+LOCATION:03.017.NOO (49) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud Computing
@@ -1242,7 +1242,7 @@ DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
  ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
  e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
  -----------------\nℹ️ Labo
-LOCATION:01.108.NOO (65) leslokaal
+LOCATION:01.108.NOO (70) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python advanced
@@ -1305,7 +1305,7 @@ DESCRIPTION:Nys\n1ste jaar Bachelor IT & Cyber Security and Cloud vervolgt
  ificial Intelligence verkort programma na Elektronica-ICT dag\n-----------
  ---------\nℹ️ Theorie
 LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+  01.08_3.ELL (144) Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Project methodology
@@ -1316,7 +1316,7 @@ DESCRIPTION:Van Eyken\n2de jaar Bachelor Toegepaste Informatica & Elektron
  ica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepas
  te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--
  ------------------\nℹ️ Labo Communicatie
-LOCATION:03.015.NOO (42) leslokaal
+LOCATION:03.015.NOO (49) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud Computing
@@ -1361,7 +1361,7 @@ DESCRIPTION:Similon\n2de jaar Bachelor Toegepaste Informatica & Elektronic
  a-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste
   Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n----
  ----------------\nℹ️ Labo
-LOCATION:02.07.B.VIA (40) Leslokaal
+LOCATION:02.07.B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DevOps
@@ -1372,7 +1372,7 @@ DESCRIPTION:Nys\n2de jaar Bachelor Toegepaste Informatica & Elektronica-IC
  T: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Inf
  ormatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--------
  ------------\nℹ️ Labo
-LOCATION:02.07.A.VIA (40) Leslokaal
+LOCATION:02.07.A.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web Frameworks
@@ -1548,7 +1548,7 @@ DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
  ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
  e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
  -----------------\nℹ️ Labo
-LOCATION:-01.009.NOO (38) leslokaal
+LOCATION:-01.009.NOO (32) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python advanced
@@ -1611,7 +1611,7 @@ DESCRIPTION:Nys\n1ste jaar Bachelor IT & Cyber Security and Cloud vervolgt
  ificial Intelligence verkort programma na Elektronica-ICT dag\n-----------
  ---------\nℹ️ Theorie
 LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+  01.08_3.ELL (144) Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Project methodology
@@ -1622,7 +1622,7 @@ DESCRIPTION:Van Eyken\n2de jaar Bachelor Toegepaste Informatica & Elektron
  ica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepas
  te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--
  ------------------\nℹ️ Labo Communicatie
-LOCATION:01.108.NOO (65) leslokaal
+LOCATION:01.108.NOO (70) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud Computing
@@ -1678,7 +1678,7 @@ DESCRIPTION:Nys\n2de jaar Bachelor Toegepaste Informatica & Elektronica-IC
  T: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Inf
  ormatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--------
  ------------\nℹ️ Labo
-LOCATION:-01.019.NOO (40) Leslokaal
+LOCATION:-01.019.NOO (49) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud Computing
@@ -1843,7 +1843,7 @@ DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
  ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
  e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
  -----------------\nℹ️ Labo
-LOCATION:-01.023.NOO (45) leslokaal
+LOCATION:-01.023.NOO (49) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python advanced
@@ -1880,7 +1880,7 @@ DESCRIPTION:Serneels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
  chelor Toegepaste Informatica & Elektronica-ICT: Software daggroep 1b\n---
  -----------------\nℹ️ Theorie
 LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+  01.08_3.ELL (144) Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ideation for Maker
@@ -1928,7 +1928,7 @@ DESCRIPTION:Nys\n1ste jaar Bachelor IT & Cyber Security and Cloud vervolgt
  ificial Intelligence verkort programma na Elektronica-ICT dag\n-----------
  ---------\nℹ️ Theorie
 LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+  01.08_3.ELL (144) Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Project methodology
@@ -1939,7 +1939,7 @@ DESCRIPTION:Van Eyken\n2de jaar Bachelor Toegepaste Informatica & Elektron
  ica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepas
  te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--
  ------------------\nℹ️ Labo Communicatie
-LOCATION:03.015.NOO (42) leslokaal
+LOCATION:03.015.NOO (49) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud Computing
@@ -2208,7 +2208,7 @@ DESCRIPTION:Nys\n1ste jaar Bachelor IT & Cyber Security and Cloud vervolgt
  ificial Intelligence verkort programma na Elektronica-ICT dag\n-----------
  ---------\nℹ️ Theorie
 LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+  01.08_3.ELL (144) Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Project methodology
@@ -2320,7 +2320,7 @@ DESCRIPTION:Verlinden\n1ste jaar Bachelor IT & Cyber Security and Cloud ve
   Informatica & Elektronica-ICT: Immersive Technologies daggroep 1 / 2de ja
  ar Bachelor Toegepaste Informatica & Elektronica-ICT: Internet of Things d
  aggroep 1
-LOCATION:04.010.NOO (40) doe-klas kleuter
+LOCATION:04.010.NOO (40) Doe-klas kleuter
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ideation
@@ -2362,7 +2362,7 @@ DESCRIPTION:Verlinden\n1ste jaar Bachelor IT & Cyber Security and Cloud ve
   Informatica & Elektronica-ICT: Immersive Technologies daggroep 1 / 2de ja
  ar Bachelor Toegepaste Informatica & Elektronica-ICT: Internet of Things d
  aggroep 1
-LOCATION:04.010.NOO (40) doe-klas kleuter
+LOCATION:04.010.NOO (40) Doe-klas kleuter
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ideation
@@ -2404,7 +2404,7 @@ DESCRIPTION:Verlinden\n1ste jaar Bachelor IT & Cyber Security and Cloud ve
   Informatica & Elektronica-ICT: Immersive Technologies daggroep 1 / 2de ja
  ar Bachelor Toegepaste Informatica & Elektronica-ICT: Internet of Things d
  aggroep 1
-LOCATION:04.010.NOO (40) doe-klas kleuter
+LOCATION:04.010.NOO (40) Doe-klas kleuter
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ideation
@@ -2440,7 +2440,7 @@ DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
  ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
  e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
  -----------------\nℹ️ Labo
-LOCATION:NOO.01.110 (48) Leslokaal
+LOCATION:01.110.NOO (48) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python advanced
@@ -2477,7 +2477,7 @@ DESCRIPTION:Serneels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
  chelor Toegepaste Informatica & Elektronica-ICT: Software daggroep 1b\n---
  -----------------\nℹ️ Theorie
 LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+  01.08_3.ELL (144) Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ideation for Maker
@@ -2525,7 +2525,7 @@ DESCRIPTION:Nys\n1ste jaar Bachelor IT & Cyber Security and Cloud vervolgt
  ificial Intelligence verkort programma na Elektronica-ICT dag\n-----------
  ---------\nℹ️ Theorie
 LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+  01.08_3.ELL (144) Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud Computing
@@ -3087,7 +3087,7 @@ DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
  ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
  e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
  -----------------\nℹ️ Labo
-LOCATION:NOO.01.110 (48) Leslokaal
+LOCATION:01.110.NOO (48) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python advanced
@@ -3124,7 +3124,7 @@ DESCRIPTION:Serneels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
  chelor Toegepaste Informatica & Elektronica-ICT: Software daggroep 1b\n---
  -----------------\nℹ️ Theorie
 LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+  01.08_3.ELL (144) Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ideation for Maker
@@ -3172,7 +3172,7 @@ DESCRIPTION:Nys\n1ste jaar Bachelor IT & Cyber Security and Cloud vervolgt
  ificial Intelligence verkort programma na Elektronica-ICT dag\n-----------
  ---------\nℹ️ Theorie
 LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+  01.08_3.ELL (144) Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Project methodology
@@ -3503,7 +3503,7 @@ DESCRIPTION:Nys\n1ste jaar Bachelor IT & Cyber Security and Cloud vervolgt
  ificial Intelligence verkort programma na Elektronica-ICT dag\n-----------
  ---------\nℹ️ Theorie
 LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+  01.08_3.ELL (144) Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Project methodology
@@ -3626,7 +3626,7 @@ DESCRIPTION:Verlinden\n1ste jaar Bachelor IT & Cyber Security and Cloud ve
   Informatica & Elektronica-ICT: Immersive Technologies daggroep 1 / 2de ja
  ar Bachelor Toegepaste Informatica & Elektronica-ICT: Internet of Things d
  aggroep 1
-LOCATION:-01.019.NOO (40) Leslokaal
+LOCATION:-01.019.NOO (49) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ideation
@@ -3668,7 +3668,7 @@ DESCRIPTION:Verlinden\n1ste jaar Bachelor IT & Cyber Security and Cloud ve
   Informatica & Elektronica-ICT: Immersive Technologies daggroep 1 / 2de ja
  ar Bachelor Toegepaste Informatica & Elektronica-ICT: Internet of Things d
  aggroep 1
-LOCATION:-01.019.NOO (40) Leslokaal
+LOCATION:-01.019.NOO (49) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ideation
@@ -3710,7 +3710,7 @@ DESCRIPTION:Verlinden\n1ste jaar Bachelor IT & Cyber Security and Cloud ve
   Informatica & Elektronica-ICT: Immersive Technologies daggroep 1 / 2de ja
  ar Bachelor Toegepaste Informatica & Elektronica-ICT: Internet of Things d
  aggroep 1
-LOCATION:-01.019.NOO (40) Leslokaal
+LOCATION:-01.019.NOO (49) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ideation
@@ -3746,7 +3746,7 @@ DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
  ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
  e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
  -----------------\nℹ️ Labo
-LOCATION:NOO.01.110 (48) Leslokaal
+LOCATION:01.110.NOO (48) leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Python advanced
@@ -3809,7 +3809,7 @@ DESCRIPTION:Nys\n1ste jaar Bachelor IT & Cyber Security and Cloud vervolgt
  ificial Intelligence verkort programma na Elektronica-ICT dag\n-----------
  ---------\nℹ️ Theorie
 LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
-  01.08_3.ELL (144) Auditorium 3
+  01.08_3.ELL (144) Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Project methodology
