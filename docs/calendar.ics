@@ -4735,4 +4735,37 @@ DESCRIPTION:Tillemans\n2de jaar Bachelor Toegepaste Informatica & Elektron
  ------------------\nℹ️ Labo
 LOCATION:01.05.ELL (32) Cyber security
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software defined data center
+DTSTART;TZID=Europe/Brussels:20270225T110000
+DTEND;TZID=Europe/Brussels:20270225T130000
+UID:2954587-20270225-1100@webuntis-sync
+DESCRIPTION:Horsmans\n2de jaar Bachelor Toegepaste Informatica & Elektroni
+ ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
+ e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
+ -----------------\nℹ️ Labo
+LOCATION:03.11.ELL (50) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Infrastructure as code
+DTSTART;TZID=Europe/Brussels:20270225T140000
+DTEND;TZID=Europe/Brussels:20270225T160000
+UID:2952053-20270225-1400@webuntis-sync
+DESCRIPTION:de Magtige\n2de jaar Bachelor Toegepaste Informatica & Elektro
+ nica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepa
+ ste Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n-
+ -------------------\nℹ️ Labo
+LOCATION:03.11.ELL (50) Leslokaal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Software Security
+DTSTART;TZID=Europe/Brussels:20270225T160000
+DTEND;TZID=Europe/Brussels:20270225T180000
+UID:2922297-20270225-1600@webuntis-sync
+DESCRIPTION:Boeynaems\n2de jaar Bachelor Toegepaste Informatica & Elektron
+ ica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepas
+ te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--
+ ------------------\nℹ️ Labo
+LOCATION:01.05.ELL (32) Cyber security
+END:VEVENT
 END:VCALENDAR
