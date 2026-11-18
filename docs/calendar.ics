@@ -1084,7 +1084,7 @@ DESCRIPTION:Michiels\n2de jaar Bachelor Toegepaste Informatica & Elektroni
  ica-ICT: Cyber Security and Cloud daggroep 2b / 2de jaar Bachelor Toegepas
  te Informatica & Elektronica-ICT: Internet of Things daggroep 1\n---------
  -----------\nℹ️ Theorie
-LOCATION:02.01.ELL (87) Aula
+LOCATION:02.03.ELL (129) Aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Project methodology
@@ -2591,20 +2591,6 @@ DESCRIPTION:Michiels\n1ste jaar Bachelor IT & Software vervolgtraject na G
 LOCATION:01.30.VIA (180) Aula
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Enterprise networking
-DTSTART;TZID=Europe/Brussels:20270105T110000
-DTEND;TZID=Europe/Brussels:20270105T120000
-UID:2815224-20270105-1100@webuntis-sync
-DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
- ca-ICT: Cyber Security and Cloud daggroep 1a / 2de jaar Bachelor Toegepast
- e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 1b / 2d
- e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
- nd Cloud daggroep 2a / 2de jaar Bachelor Toegepaste Informatica & Elektron
- ica-ICT: Cyber Security and Cloud daggroep 2b\n--------------------\nℹ
- ️ Theorie
-LOCATION:02.01.ELL (87) Aula
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ideation
 DTSTART;TZID=Europe/Brussels:20270105T150000
 DTEND;TZID=Europe/Brussels:20270105T160000
@@ -2718,17 +2704,6 @@ LOCATION:01.10/12.ELL (14) Makerspace 2D\, 01.11.ELL (30) Makerspace 3D\,
  01.13/01.14.ELL (62) Projectlokaal DVG & GDM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Project methodology
-DTSTART;TZID=Europe/Brussels:20270107T140000
-DTEND;TZID=Europe/Brussels:20270107T160000
-UID:2820198-20270107-1400@webuntis-sync
-DESCRIPTION:Van Eyken\n2de jaar Bachelor Toegepaste Informatica & Elektron
- ica-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepas
- te Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n--
- ------------------\nℹ️ Labo Project Methodology
-LOCATION:03.08.ELL (40) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cloud Computing
 DTSTART;TZID=Europe/Brussels:20270107T160000
 DTEND;TZID=Europe/Brussels:20270107T180000
@@ -2738,29 +2713,6 @@ DESCRIPTION:Horsmans\n2de jaar Bachelor Toegepaste Informatica & Elektroni
  e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
  -----------------\nℹ️ Labo
 LOCATION:03.08.ELL (40) Leslokaal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Enterprise networking
-DTSTART;TZID=Europe/Brussels:20270108T110000
-DTEND;TZID=Europe/Brussels:20270108T130000
-UID:2815299-20270108-1100@webuntis-sync
-DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
- ca-ICT: Cyber Security and Cloud daggroep 2a / 2de jaar Bachelor Toegepast
- e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2b\n---
- -----------------\nℹ️ Labo
-LOCATION:01.03.ELL (30) Labo Netwerken
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Security Project Analysis
-DTSTART;TZID=Europe/Brussels:20270108T140000
-DTEND;TZID=Europe/Brussels:20270108T160000
-UID:3119979-20270108-1400@webuntis-sync
-DESCRIPTION:Waeyaert\n2de jaar Bachelor Toegepaste Informatica & Elektroni
- ca-ICT: Cyber Security and Cloud daggroep 1b / 2de jaar Bachelor Toegepast
- e Informatica & Elektronica-ICT: Cyber Security and Cloud daggroep 2a / 2d
- e jaar Bachelor Toegepaste Informatica & Elektronica-ICT: Cyber Security a
- nd Cloud daggroep 2b\n--------------------\nℹ️ Groepsleren
-LOCATION:01.01.ELL (45) Projectlokaal CSC en SNB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inhaalexamen_dag
